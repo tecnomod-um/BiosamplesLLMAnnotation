@@ -25,6 +25,7 @@ Scripts use one or more of the following libraries:
 - **os**: Provides a portable way of using operating system-dependent functionality
 - **matplotlib.pyplot**: Low level graph plotting library in python that serves as a visualization utility.
 - **requests**: Allows you to send HTTP requests using Python
+
 All dependencies are included in the **requieres.txt** file.
 
 ## Starting file
