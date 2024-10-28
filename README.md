@@ -26,7 +26,7 @@ Scripts use one or more of the following libraries:
 - **matplotlib.pyplot**: Low level graph plotting library in python that serves as a visualization utility.
 - **requests**: Allows you to send HTTP requests using Python
 
-All dependencies are included in the **requieres.txt** file.
+All dependencies are included in the **requirements.txt** file.
 
 ## Starting file
 The starting file has the reference mappings made manually by the research group of the Computer Science and Systems Department of the University of Murcia.
