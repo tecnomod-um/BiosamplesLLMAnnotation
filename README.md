@@ -29,6 +29,10 @@ Scripts use one or more of the following libraries:
 All dependencies are included in the **requirements.txt** file.
 
 ## Installing Requirements
+
+### Prerequisites
+- Ensure that Python 3.7 or higher is installed on your system.
+- Make sure that `pip`, Python's package installer, is also available.
 1. **Navigate to the Project Directory**
    Open your terminal (or command prompt) and navigate to the directory where the `requirements.txt` file is located:
    
