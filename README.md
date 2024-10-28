@@ -28,6 +28,23 @@ Scripts use one or more of the following libraries:
 
 All dependencies are included in the **requirements.txt** file.
 
+## Installing Requirements
+1. **Navigate to the Project Directory**
+   Open your terminal (or command prompt) and navigate to the directory where the `requirements.txt` file is located:
+   
+   ```sh
+   cd path/to/your/project-directory
+   ```
+
+2. **Install the Dependencies**
+   Use `pip` to install all of the dependencies listed in the `requirements.txt` file:
+   
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+   This command will read each dependency from `requirements.txt` and install them automatically.
+
 ## Starting file
 The starting file has the reference mappings made manually by the research group of the Computer Science and Systems Department of the University of Murcia.
 - **biosamples.tsv**
