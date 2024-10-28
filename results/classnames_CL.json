@@ -1,0 +1,8042 @@
+{
+    "HS-SY-2Monophasic_synovial_sarcoma": [
+        "RCB2231 cell",
+        "-",
+        "synovial cell",
+        "fibroblast",
+        "synovial bursa",
+        "bone tissue",
+        "HS-SY-2 cell",
+        "-"
+    ],
+    "lymphoma malignant hairy B-cell cell line:MLMA": [
+        "-",
+        "-",
+        "B cell",
+        "central nervous system macrophage",
+        "blood",
+        "blood",
+        "-",
+        "AX-4 cell"
+    ],
+    "Loucy": [
+        "Loucy cell",
+        "L1296 cell",
+        "T cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "TE7_1": [
+        "TE7 cell",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "A-673-clone-Asp114": [
+        "A673 cell",
+        "A52m/pSG1 cell",
+        "muscle cell",
+        "muscle cell",
+        "muscle structure",
+        "muscle structure",
+        "A-673 cell",
+        "-"
+    ],
+    "small cell gastrointestinal carcinoma cell line:ECC10": [
+        "RCB0983 cell",
+        "RCB1191 cell",
+        "epithelial cell of stomach",
+        "epithelial cell of small intestine",
+        "stomach",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "H1 hESC-derived neural progenitor cells_Smad_6hr": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "HUCCT1": [
+        "RCB1960 cell",
+        "-",
+        "duct epithelial cell",
+        "adventitial cell",
+        "bile duct",
+        "liver",
+        "HuCCT-1 cell",
+        "-"
+    ],
+    "VCaP_prostate_carcinoma_SH3_DHT": [
+        "VCaP cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "VCaP cell",
+        "VCaP cell"
+    ],
+    "A-673_clone_Asp114_Ewing_sarcoma": [
+        "A673 cell",
+        "A549 cell",
+        "muscle cell",
+        "muscle cell",
+        "muscle structure",
+        "muscle structure",
+        "A-673 cell",
+        "Y1-BS1 cell"
+    ],
+    "hMSC-TERT": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "NIH-3T3-A14 cell"
+    ],
+    "LNCaP_prostate_carcinoma_ETOH_SHCTR": [
+        "LNCAP cell",
+        "IGF127/91 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "LNCaP cell"
+    ],
+    "FLP76_embryonic_kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "HEK293T": [
+        "HEK293T cell",
+        "ND14425 cell",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293T cell",
+        "33B cell"
+    ],
+    "GM15510": [
+        "GM15510 cell",
+        "-",
+        "B cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "HeLaS3": [
+        "HeLa S3 cell",
+        "-",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa-S3 cell",
+        "HeLa-S3 cell"
+    ],
+    "mesothelioma cell line:NCI-H28": [
+        "NCI-H28 cell",
+        "NCI-H522 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "KOSC-3 cell"
+    ],
+    "H9 derived neuronal progenitor cultured cells": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "fibroblast of upper back skin",
+        "nervous system",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "HeLa-S3_Cervical_Carcinoma": [
+        "HeLa S3 cell",
+        "BCL-2 1863 cell",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa-S3 cell",
+        "HeLa cell"
+    ],
+    "iPS DF 19.11 Cells": [
+        "human induced pluripotent stem cell line cell",
+        "MSF20 cell",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "BJ/ET": [
+        "BJ cell",
+        "GM08763 cell",
+        "foreskin fibroblast",
+        "rectum glandular cell",
+        "prepuce of penis",
+        "prepuce of penis",
+        "BJ cell",
+        "sublingual gland duct"
+    ],
+    "A549 DMSO": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "HCT116 TP53-/-_Nutlin3A": [
+        "HCT 116 cell",
+        "HCT 116 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "GM18507": [
+        "GM18507 cell",
+        "GM05750 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HUVECs_TNF0min": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        null,
+        "HUVEC cell",
+        "Cl-66 cell"
+    ],
+    "NB69": [
+        "RCB0480 cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "nervous system",
+        "NB-69 cell",
+        "-"
+    ],
+    "PATU8988S_GFP_DOX": [
+        "PA-TU-8988S cell",
+        "GM14441 cell",
+        "epithelial cell of pancreas",
+        "nodal myocyte",
+        "pancreas",
+        "pancreas",
+        "Patu-8988 cell",
+        "-"
+    ],
+    "COLO320-DM_DMSO": [
+        "COLO-320 cell",
+        "CPA 47 cell",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "colon",
+        "Colo-320 cell",
+        "SK-RC-29 cell"
+    ],
+    "gm12891": [
+        "GM12891 cell",
+        "ND04897 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "293Trex_B4Nflag_7h": [
+        "HEK293-T-REx cell",
+        "-",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "T-REx 293 cell",
+        "-"
+    ],
+    "PANC1_2": [
+        "PANC-1 cell",
+        "PANC-1 cell",
+        "type B pancreatic cell",
+        "muscle cell",
+        "pancreas",
+        "pancreas",
+        "PANC-1 cell",
+        "stoma"
+    ],
+    "CHL-1": [
+        "CHL-1 cell",
+        "-",
+        "epidermal melanocyte",
+        "milk secreting cell",
+        "skin epidermis",
+        "ovary",
+        "CHL-1 cell",
+        "trophoblast giant cell"
+    ],
+    "hESC-1_Embryonic_stem_cells_WNT3A": [
+        "Line H1 cell",
+        "human embryonic stem cell line cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "hESC cell"
+    ],
+    "FLP76": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "lymph node",
+        "-",
+        "-"
+    ],
+    "iPS-15b": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "mononuclear cell of bone marrow",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "MKN28": [
+        "MKN28 cell",
+        "RCB0869 cell",
+        "epithelial cell of stomach",
+        "pancreatic ductal cell",
+        "stomach",
+        "stomach",
+        "MKN-28 cell",
+        "myoblast cell line"
+    ],
+    "Kelly_shB4_Res": [
+        "KELLY cell",
+        "KHOS/NP cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "KELLY cell",
+        "glomerular macrophage"
+    ],
+    "LS174T_colon_adenocarcinoma_BI8622": [
+        "LS174T cell",
+        "Nb2-11 cell",
+        "colon epithelial cell",
+        "type II pinealocyte",
+        "colon",
+        "colon",
+        "LS-174T cell",
+        "scutellum"
+    ],
+    "ME-1_DMSO_6h": [
+        "ME-1 cell",
+        "-",
+        "myeloid cell",
+        "kidney epithelial cell",
+        "blood",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "HSMM Skeletal Muscle Myoblasts Cells": [
+        "immortal human skeletal muscle-derived myoblast cell line cell",
+        "MG213 cell",
+        "myoblast",
+        "myoblast",
+        "muscle structure",
+        "plastron scute",
+        "-",
+        "gynecophoral canal"
+    ],
+    "GM18486": [
+        "GM18486 cell",
+        "DA01217 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "GLC16": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        "epithelial cell of cervix",
+        "lung",
+        "uterine cervix",
+        "-",
+        null
+    ],
+    "hESC": [
+        "human embryonic stem cell line cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "embryonic stem cell",
+        "embryonic stem cell"
+    ],
+    "CLB-BER-Lud": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "-",
+        "nervous system",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "NUT": [
+        "-",
+        "-",
+        "male germ cell",
+        "male germ cell",
+        "testis",
+        "-",
+        "-",
+        "-"
+    ],
+    "GM18526": [
+        "GM18526 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "IMR90_#2": [
+        "IMR-90 cell",
+        "IMR-90 cell",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "WM-266-4 cell"
+    ],
+    "HFF-Myc": [
+        "-",
+        "-",
+        "foreskin fibroblast",
+        "foreskin fibroblast",
+        "prepuce of penis",
+        "prepuce of penis",
+        "-",
+        "blastocyst"
+    ],
+    "BT-474_breast_invasive_ductal_carcinoma_EGF": [
+        "BT-474 cell",
+        "BT-474 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "BT-474 cell",
+        "Morris hepatoma 7316A cell"
+    ],
+    "MCF10CA1a": [
+        "MCF 10A cell",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "LY4": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "MALME-3": [
+        "Malme-3 cell",
+        "FC2.K cell",
+        "skin fibroblast",
+        "muscle cell",
+        "skin epidermis",
+        "simple organ",
+        "MALME-3 cell",
+        "-"
+    ],
+    "HUES48 Cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "GM12873_female_B-cells": [
+        "GM12873 cell",
+        "S003489 cell",
+        "B cell",
+        "foreskin melanocyte",
+        "blood",
+        "blood",
+        "-",
+        "U-5A cell"
+    ],
+    "Capan1-untreated": [
+        "Capan-1 cell",
+        "COLO-320 cell",
+        "pancreatic ductal cell",
+        "pulmonary alveolar type 2 cell",
+        "exocrine pancreas",
+        "pancreas",
+        "CAPAN-1 cell",
+        "-"
+    ],
+    "H1 hESC-derived neural progenitor cells_Smad_72hr": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "HUDEP-2_BCL11AKO": [
+        "-",
+        "SBC-3 cell",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell",
+        "umbilical cord blood",
+        "umbilical cord blood",
+        "-",
+        "-"
+    ],
+    "MALME3": [
+        "Malme-3 cell",
+        "-",
+        "skin fibroblast",
+        "cardiac ventricle fibroblast",
+        "skin epidermis",
+        "skin epidermis",
+        "MALME-3 cell",
+        "-"
+    ],
+    "TTC549_Doxycycline": [
+        "-",
+        "-",
+        "-",
+        "colon epithelial cell",
+        "liver",
+        "synovial joint of pectoral girdle",
+        "-",
+        "-"
+    ],
+    "CA-46_Burkitt_lymphoma": [
+        "CA46 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "CA-46 cell",
+        "Th1 cell"
+    ],
+    "LREX": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "natural killer cell",
+        "prostate gland",
+        null,
+        "-",
+        "-"
+    ],
+    "C4-2B_vehicle_24h": [
+        "LNCaP cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCAP-C4-2B cell",
+        "-"
+    ],
+    "TSU-1621-MT_adult_acute_myeloid_leukemia_ATRA": [
+        "-",
+        "KURAMOCHI cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "NCR-G1": [
+        "RCB2341 cell",
+        "GM03462 cell",
+        "male germ cell",
+        "lymphocyte",
+        "testis",
+        "blood",
+        "-",
+        "-"
+    ],
+    "22rv1-arvs": [
+        "22Rv1 cell",
+        "A4-Fuk cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "CWR22-Rv1 cell",
+        "SNU-368 cell"
+    ],
+    "H9_Cell_Line": [
+        "H9 cell",
+        "H9 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "H-9 cell",
+        "cardiomyoblast"
+    ],
+    "SF268": [
+        "SF268 cell",
+        "A2780ADR cell",
+        "astrocyte",
+        "astrocyte",
+        "brain",
+        "brain",
+        "SF-268 cell",
+        "-"
+    ],
+    "IMR-5_Neuroblastoma": [
+        "IMR-5 cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "muscle structure",
+        "IMR-5 cell",
+        "mammary gland cell line"
+    ],
+    "HUVEC_Notch1kd_IL1beta": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "mesonephric podocyte",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        null
+    ],
+    "PFSK-1": [
+        "PFSK-1 cell",
+        "RCB2328 cell",
+        "fibroblast",
+        "myoblast",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "NCI-H2171 cells": [
+        "NCI-H2171 cell",
+        "NCI-H1836 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H2171 cell",
+        "-"
+    ],
+    "TEX-HIST1H3F-K27I-2-Rx_cells": [
+        "-",
+        "-",
+        "stem cell",
+        "-",
+        "bone marrow",
+        "-",
+        "TEX cell",
+        "-"
+    ],
+    "CAL51": [
+        "CAL-51 cell",
+        "-",
+        "mammary gland epithelial cell",
+        null,
+        "breast",
+        "breast",
+        "CAL-51 cell",
+        "transfer cell"
+    ],
+    "HEK293-FT": [
+        "293-derived cell",
+        null,
+        "kidney epithelial cell",
+        null,
+        "kidney",
+        "prostate gland",
+        "HEK-293FT cell",
+        "-"
+    ],
+    "LY1": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "FL16": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "lymph node",
+        "-",
+        "-",
+        "-"
+    ],
+    "mesenchymal stem cell line:Hu5/E18": [
+        "-",
+        "-",
+        "mesenchymal cell",
+        "mesenchymal stem cell",
+        "mesenchyme",
+        "connective tissue",
+        "-",
+        "mesenchymal stem cell"
+    ],
+    "carcinoid cell line:NCI-H1770": [
+        "NCI-H1770 cell",
+        "P1985f cell",
+        "lung neuroendocrine cell",
+        "squamous epithelial cell",
+        "lung",
+        "uterine cervix",
+        "-",
+        "-"
+    ],
+    "MCC26_virus_negative": [
+        "-",
+        "-",
+        "Merkel cell",
+        null,
+        "skin epidermis",
+        "liver",
+        "-",
+        "-"
+    ],
+    "HS-SY-2": [
+        "RCB2231 cell",
+        "-",
+        "synovial cell",
+        "B cell",
+        "synovial bursa",
+        "blood",
+        "HS-SY-2 cell",
+        "-"
+    ],
+    "MCF7L-TamRimmortalized_breast_epithelial_tamoxifen_resistant_cell_line": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "SK-N-BE": [
+        "-",
+        "W6/32 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "GM10861_female_B-cells": [
+        "GM10861 cell",
+        "GM15472 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HCC70": [
+        "HCC70 cell",
+        "KMI6 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "HCC-70 cell",
+        "C-2 cell"
+    ],
+    "HEK293_embryonic_kidney": [
+        "HEK293",
+        "HEK293",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293 cell",
+        "neurohypophysis"
+    ],
+    "IMS-M2": [
+        "-",
+        "-",
+        "myeloid cell",
+        "colon epithelial cell",
+        "blood",
+        "myocardium of ventricle",
+        "-",
+        "-"
+    ],
+    "22rv1": [
+        "22Rv1 cell",
+        "BF93 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "CWR22-Rv1 cell",
+        "esophageal mucosa"
+    ],
+    "MCF10A-ER-Src": [
+        "MCF10A-Er-Src cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-10A cell"
+    ],
+    "Kelly_vehicle": [
+        "KELLY cell",
+        "KEL FIB cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "KELLY cell",
+        "MS-1 cell"
+    ],
+    "Monomac6_CTRL": [
+        "MONO-MAC-6 cell",
+        "-",
+        "monocyte",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "Mono-Mac-6 cell",
+        "MUTZ-8 cell"
+    ],
+    "osteosarcoma cell line:HS-Os-1": [
+        "RCB2229 cell",
+        "AG10467 cell",
+        "osteoblast",
+        "bone cell",
+        "humerus",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "squamous cell carcinoma cell line:EC-GI-10": [
+        "RCB0774 cell",
+        "HSC0115 cell",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "endocrine pancreas",
+        "esophageal squamous cell carcinoma cell",
+        "-"
+    ],
+    "MSTO": [
+        "MSTO-211H cell",
+        "-",
+        "mesothelial cell",
+        "-",
+        "mesothelium",
+        "-",
+        "MSTO-211H cell",
+        "-"
+    ],
+    "DMS 144": [
+        "-",
+        "RC-K8 cell",
+        "epithelial cell of lung",
+        "type B pancreatic cell",
+        "lung",
+        "vagina",
+        "-",
+        "-"
+    ],
+    "GM12004": [
+        "GM12004 cell",
+        "DA03699 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "P493-6_B-cell_lymphoma_SHCTR": [
+        "-",
+        "DD-4 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "P493-6 cell",
+        "brainstem glioma cell"
+    ],
+    "TC71_SA2 KO": [
+        "TC-71 cell",
+        "SUM159PT cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "TC-71 cell",
+        "-"
+    ],
+    "LM2-4175": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "B cell",
+        "breast",
+        "blood",
+        "-",
+        "-"
+    ],
+    "VCaP_and_LTAD_cells": [
+        "-",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "VCaP cell"
+    ],
+    "MCF_10A": [
+        "MCF 10A cell",
+        "MDA-MB-330 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-10A cell",
+        "MCF-10A cell"
+    ],
+    "HS-ES-2R": [
+        "RCB2361 cell",
+        "FU97 cell",
+        "-",
+        "pluripotent stem cell",
+        "-",
+        "embryo",
+        "-",
+        "CHO-Lec4 cell"
+    ],
+    "EEB": [
+        "RCB2345 cell",
+        "HSC0018 cell",
+        "erythroid lineage cell",
+        "colon epithelial cell",
+        "blood",
+        "nucleus pulposus",
+        "-",
+        "-"
+    ],
+    "HTOA": [
+        "RCB0692 cell",
+        "SK-N-SH cell",
+        "serous secreting cell",
+        "raphe nuclei neuron",
+        "ovary",
+        "connective tissue",
+        "-",
+        "-"
+    ],
+    "iPS_20b": [
+        "human induced pluripotent stem cell line cell",
+        "C3RL4",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "LX-2_hepatic_stellate_cells_TGFB1": [
+        "-",
+        "-",
+        "hepatic stellate cell",
+        "sweat secreting cell",
+        "liver",
+        "liver",
+        "LX-2 cell",
+        "BW-5147.3 cell"
+    ],
+    "GM12878": [
+        "GM12878 cell",
+        "GM12884 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "GM-12878 cell",
+        "-"
+    ],
+    "t47d": [
+        "T-47D cell",
+        "T1-73 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "T-47D cell",
+        "T-47D cell"
+    ],
+    "NCI-H1299_EGFP-NEO_reporter_cells_SAHA": [
+        "NCI-H1299 cell",
+        "NCI-H1299 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1299 cell",
+        "myoma cell"
+    ],
+    "DLD-1_colon_adenocarcinoma": [
+        "DLD-1 cell",
+        "COLO-699 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "DLD-1 cell",
+        "free-living state"
+    ],
+    "GIST-T1_Gastrointestinal_stromal_tumor": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "stomach",
+        "pharyngeal arch artery 6",
+        "-",
+        "2BN cell"
+    ],
+    "Colo320": [
+        "COLO-320 cell",
+        "B14FAF28-G3 cell",
+        "colon epithelial cell",
+        "epithelial cell of alveolus of lung",
+        "colon",
+        "colon",
+        "Colo-320 cell",
+        "NHDF cell"
+    ],
+    "DKO1": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "foreskin fibroblast",
+        "colon",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "CC-LP-1_intrahepatic_cholangiocarcinoma": [
+        "-",
+        "-",
+        "duct epithelial cell",
+        "ependymal cell",
+        "bile duct",
+        "liver",
+        "CCLP-1 cell",
+        "-"
+    ],
+    "iPSCs": [
+        "human induced pluripotent stem cell line cell",
+        "BG1-Luc-4E2",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "prostate gland",
+        "hiPSC cell",
+        "-"
+    ],
+    "NCI-H226": [
+        "NCI-H226 cell",
+        "NCI-H220 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H226 cell",
+        "MEL-JUSO cell"
+    ],
+    "MiaPaca2": [
+        "MIA PaCa-2 cell",
+        "BJeH cell",
+        "pancreatic ductal cell",
+        "pancreatic ductal cell",
+        "pancreas",
+        "pancreas",
+        "MiaPaCa-2 cell",
+        "Rat1-R12 cell"
+    ],
+    "COLO320HSR_DMSO": [
+        "COLO-320 cell",
+        "CRI-D2 cell",
+        "colon epithelial cell",
+        "epithelial cell of alveolus of lung",
+        "colon",
+        "colon",
+        "Colo-320 cell",
+        "-"
+    ],
+    "T24_2_low": [
+        "T24 cell",
+        "1205Lu cell",
+        "bladder cell",
+        "salivary gland glandular cell",
+        "urinary bladder",
+        "foregut",
+        "T-24 cell",
+        "visceral mass"
+    ],
+    "H-EMC-SS": [
+        "H-EMC-SS cell",
+        null,
+        "muscle cell",
+        "lymphocyte",
+        "muscle structure",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HEL-R": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "TGBC2TKB": [
+        "THP-1 cell",
+        "GOTO cell",
+        "epithelial cell",
+        "squamous epithelial cell",
+        "gallbladder",
+        "liver",
+        "-",
+        "-"
+    ],
+    "MDA-BoM-1833": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "HUES64 Cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "EndoC-BH1_SE": [
+        "-",
+        "-",
+        "type B pancreatic cell",
+        "Purkinje cell",
+        "pancreas",
+        "adipose tissue",
+        "-",
+        "-"
+    ],
+    "SH-SY5Y_neuroblastoma_OVERMYCN_24H": [
+        "SH-SY5Y cell",
+        "U-87 MG cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "bone marrow",
+        "brain",
+        "SH-SY5Y cell",
+        "HCT-116 cell"
+    ],
+    "U87_EGFRvIII_shFOXG1_FBS": [
+        "U-87 MG cell",
+        "U-87 MG cell",
+        "astrocyte",
+        "astrocyte",
+        "brain",
+        "brain",
+        "U-87MG cell",
+        null
+    ],
+    "SK-MEL-5": [
+        "SK-MEL-5 cell",
+        "SK-HEP-1 cell",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "SK-MEL-5 cell",
+        "NHBE cell"
+    ],
+    "Jurkat_WT": [
+        "JURKAT cell",
+        "JURKAT cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "JURKAT cell",
+        "JURKAT cell"
+    ],
+    "GM12868_female_B-cells": [
+        "GM12868 cell",
+        "GM18689 cell",
+        "B cell",
+        "foreskin melanocyte",
+        "blood",
+        "blood",
+        "-",
+        "dentate gyrus IS-II cell"
+    ],
+    "THP-1_acute_monocytic_leukemia_CAL": [
+        "THP-1 cell",
+        null,
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "THP-1 cell",
+        "Schwann cell"
+    ],
+    "HSSY2 shCt": [
+        "RCB2231 cell",
+        "-",
+        "synovial cell",
+        "mesothelial cell",
+        "synovial bursa",
+        "vasculature",
+        "HS-SY-2 cell",
+        "-"
+    ],
+    "PLC\\PRF\\5": [
+        "PLC/PRF/5 cell",
+        "obsolete: MCF-12A cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "PLC-PRF-5 cell",
+        "vomeronasal nerve"
+    ],
+    "HUVEC_Umbilical_Vein_Endothelial_Cells": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        "mucous gland"
+    ],
+    "U251": [
+        "-",
+        "TO 203.T cell",
+        "glial cell",
+        "astrocyte",
+        "brain",
+        "brain",
+        "U-343MG cell",
+        "OVCA-432 cell"
+    ],
+    "COLO-829_melanoma": [
+        "COLO 829 cell",
+        "OKT 5 cell",
+        "skin fibroblast",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "-",
+        "ovum"
+    ],
+    "HUDEP-2_LRFKO": [
+        "-",
+        "RF-48 cell",
+        "erythroid progenitor cell",
+        "Merkel cell",
+        "umbilical cord blood",
+        "umbilical cord blood",
+        "-",
+        "-"
+    ],
+    "T_D": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "collecting duct"
+    ],
+    "LHSAR_prostate_epithelial_cells_HOXB13": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "-"
+    ],
+    "SHEP with tetracycline inducible MYC_DOX_2HR": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "retinal cell",
+        "nervous system",
+        "muscle of shoulder",
+        "SH-EP cell",
+        "endometrial luminal epithelium"
+    ],
+    "Ca9-22": [
+        "RCB1976 cell",
+        "HEV0213 cell",
+        "oral mucosa squamous cell",
+        "magnocellular neurosecretory cell",
+        "mouth",
+        "tongue",
+        "Ca9-22 cell",
+        "BL-3 cell"
+    ],
+    "GIST-48B": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "digestive tract",
+        null,
+        "-",
+        "-"
+    ],
+    "GICAN": [
+        "GI-CA-N cell",
+        "RCB2776 cell",
+        "neuroblast (sensu Vertebrata)",
+        "colon epithelial cell",
+        "nervous system",
+        "colon",
+        "-",
+        "-"
+    ],
+    "UM-RC-6": [
+        "-",
+        "HEV0032 cell",
+        "kidney cell",
+        "bladder cell",
+        "kidney",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "HCC70_XY018": [
+        "HCC70 cell",
+        "HCC38 BL cell",
+        "mammary gland epithelial cell",
+        null,
+        "breast",
+        "stratum corneum of epidermis",
+        "HCC-70 cell",
+        "-"
+    ],
+    "UO-31": [
+        "-",
+        "DA04615 cell",
+        "kidney cell",
+        "kidney cell",
+        "kidney",
+        "urinary bladder",
+        "UO-31 cell",
+        "-"
+    ],
+    "H3396_breast_carcinoma_ETOH": [
+        "-",
+        "T98G cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "GM19238": [
+        "GM19238 cell",
+        "DA01367 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "serous cystadenocarcinoma cell line:HTOA": [
+        "RCB0692 cell",
+        "NGP cell",
+        "serous secreting cell",
+        "glandular cell of the large intestine",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "RMS209": [
+        "-",
+        "-",
+        "striated muscle cell",
+        null,
+        "striated muscle tissue",
+        "musculature",
+        "rhabdomyosarcoma cell",
+        "-"
+    ],
+    "RENVM": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "male germ cell",
+        "brain",
+        "-",
+        "-",
+        "-"
+    ],
+    "GM23338": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "lymphocyte",
+        "skin epidermis",
+        "blood",
+        "-",
+        "-"
+    ],
+    "EP156T_primary_prostate_cells": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "-"
+    ],
+    "U937_adult_acute_monocytic_leukemia": [
+        "U-937 cell",
+        "SW-13 cell",
+        "monocyte",
+        "CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",
+        "blood",
+        "bone marrow",
+        "-",
+        "temporal lobe"
+    ],
+    "MDA-MB-453": [
+        "MDA-MB-453 cell",
+        "MDBK cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-453 cell",
+        "embryonic stem cell line"
+    ],
+    "H9_Null": [
+        "H9 cell",
+        "HaK cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "H-9 cell",
+        "colorectal adenoma cell"
+    ],
+    "HSKTC": [
+        "RCB0515 cell",
+        "-",
+        "ovarian surface epithelial cell",
+        "T cell",
+        "ovary",
+        "lung",
+        "-",
+        "-"
+    ],
+    "T_J": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "22Rv1": [
+        "22Rv1 cell",
+        "10F7MN cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "CWR22-Rv1 cell",
+        "UM-SCC-22B cell"
+    ],
+    "MV411": [
+        "MV-4-11 cell",
+        "PCA 31.1 cell",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "blood",
+        "MV-4-11 cell",
+        "LAD-2 cell"
+    ],
+    "GM12869": [
+        "GM12869 cell",
+        "DA06528 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "T47D_shCtrl_shRING1B_24hr": [
+        "T-47D cell",
+        "T-47D cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "T-47D cell",
+        "T-47D cell"
+    ],
+    "HepaRG": [
+        "-",
+        "L-1236 cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "Hepa-RG cell",
+        "placental disc"
+    ],
+    "GBM_4250_2": [
+        "-",
+        "-",
+        "glial cell",
+        "neural cell",
+        "brain",
+        "brain",
+        "glioblastoma cell line",
+        "-"
+    ],
+    "SK-MEL-23": [
+        "-",
+        "SK-MEL-28 cell",
+        "epidermal melanocyte",
+        "epidermal melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "SK-MEL-23 cell",
+        "-"
+    ],
+    "UCSF_4": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "-",
+        "embryo",
+        "brain",
+        "-",
+        "-"
+    ],
+    "MM1-S": [
+        "MM.1S cell",
+        "SBC-5 cell",
+        "lymphocyte of B lineage",
+        "B cell",
+        "blood",
+        "blood",
+        "MM1-S cell",
+        "-"
+    ],
+    "Cal27": [
+        "CAL 27 cell",
+        "E.Derm cell",
+        "squamous epithelial cell",
+        "epithelial cell",
+        "tongue",
+        "central nervous system",
+        "CAL-27 cell",
+        "-"
+    ],
+    "FL8": [
+        "-",
+        "-",
+        "B cell",
+        "Merkel cell",
+        "lymph node",
+        "blood",
+        "-",
+        "shoot apical meristem"
+    ],
+    "OVCA429_shGRHL2": [
+        "-",
+        "-",
+        "epithelial cell",
+        "epithelial cell",
+        "ovary",
+        "ovary",
+        "OVCA-429 cell",
+        "septum pellucidum"
+    ],
+    "GM18505": [
+        "GM18505 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HCT116_GLIS2.2-DMSO": [
+        "HCT 116 cell",
+        "HCT-15 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "DU145_prostate_carcinoma_FOXA1_ARQ6540X": [
+        "DU 145 cell",
+        "MOG-G-UVW cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "DU-145 cell",
+        "sympathetic ganglion"
+    ],
+    "P493-6_B-cell_lymphoma_CMYC_24H": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "P493-6 cell",
+        "-"
+    ],
+    "LS174T_colon_adenocarcinoma": [
+        "LS174T cell",
+        "LL47 (MaDo) cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "LS-174T cell",
+        "collecting duct"
+    ],
+    "BCPAP_Poorly_differentiated_thyroid_gland_carcinoma": [
+        "B-CPAP cell",
+        null,
+        "epithelial cell of thyroid gland",
+        null,
+        "thyroid gland",
+        null,
+        "B-CPAP cell",
+        null
+    ],
+    "carcinosarcoma cell line:JHUCS-1": [
+        "RCB1547 cell",
+        "primary cultured peripheral blood cell",
+        "epithelial cell of uterus",
+        "gallbladder glandular cell",
+        "uterus",
+        "vein",
+        "-",
+        "-"
+    ],
+    "LNCaP95_shARv7_DHT": [
+        "-",
+        "LNCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP-95 cell",
+        "NCI-H3282 cell"
+    ],
+    "CRC_17A": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "hESC-1_Embryonic_stem_cells_DIFF_D2": [
+        "Line H1 cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "CCD-1113Sk cell"
+    ],
+    "WA01_H1_human_embryonic_stem_cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "WA-01 cell",
+        "embryonic stem cell"
+    ],
+    "J82": [
+        "J82 cell",
+        "NCI-H1436 cell",
+        "bladder cell",
+        "squamous epithelial cell",
+        "urinary bladder",
+        null,
+        "J-82 cell",
+        "culture condition:nicotinic acid-grown cell"
+    ],
+    "LNCaP95_shGFP_DHT": [
+        "-",
+        "LNCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP-95 cell",
+        null
+    ],
+    "GM19239": [
+        "GM19239 cell",
+        "DA04331 cell",
+        "B cell",
+        null,
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "DLD1": [
+        "DLD-1 cell",
+        "NAMALWA.PNT cell",
+        "colon epithelial cell",
+        "mononuclear cell of bone marrow",
+        "colon",
+        "colon",
+        "DLD-1 cell",
+        "amnion epithelial cell"
+    ],
+    "ZR-75-1": [
+        "-",
+        "RCB1313 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "ZR-75-1 cell",
+        "QGP-1 cell"
+    ],
+    "SK-MEL-5_DMSO_6h": [
+        "SK-MEL-5 cell",
+        "Tep Be cell",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "SK-MEL-5 cell",
+        "portio supravaginalis cervicis"
+    ],
+    "HaCaT_keratinocytes_caRAS_TGFB": [
+        null,
+        null,
+        "keratinocyte",
+        "keratinocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "HaCaT cell",
+        "LN-229 cell"
+    ],
+    "LC-1F": [
+        "RCB0439 cell",
+        "UACC-257 cell",
+        "squamous epithelial cell",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "MDA-MB-453_breast_adenocarcinoma_R1881_SICTR": [
+        "MDA-MB-453 cell",
+        "MDBK cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-453 cell",
+        "SW-48 cell"
+    ],
+    "8305C": [
+        "8305C cell",
+        "-",
+        "epithelial cell of thyroid gland",
+        "epithelial cell of stomach",
+        "thyroid gland",
+        "esophagus",
+        "8305C cell",
+        "-"
+    ],
+    "HUVEC": [
+        "HUV-EC-C cell",
+        null,
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        "HUVEC cell"
+    ],
+    "ChTRT": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "-",
+        "esophagus",
+        "liver",
+        "-",
+        "-"
+    ],
+    "MM_1S": [
+        "MM.1S cell",
+        "-",
+        "lymphocyte of B lineage",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "MM1-S cell",
+        "HBL-6 cell"
+    ],
+    "M-MOK": [
+        "RCB2534 cell",
+        "-",
+        "megakaryocyte progenitor cell",
+        "macrophage",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "SK-UT-1": [
+        "SK-UT-1 cell",
+        "-",
+        "smooth muscle cell",
+        "intestinal crypt stem cell of colon",
+        "myometrium",
+        "bone marrow",
+        "SK-UT-1 cell",
+        "-"
+    ],
+    "LNCaP_prostate_carcinoma_SICTR_TNFA": [
+        "LNCAP cell",
+        "Chang Liver cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "foreskin keratinocyte cell line"
+    ],
+    "MFH-ino": [
+        "RCB0749 cell",
+        "-",
+        "-",
+        "-",
+        "connective tissue",
+        "-",
+        "-",
+        "-"
+    ],
+    "LNCaP_DHT_DMSO_6h": [
+        "LNCAP cell",
+        "LNCAP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "LNCaP cell"
+    ],
+    "KMS28BM": [
+        "-",
+        "2B4/BCL-2 cell",
+        "plasma cell",
+        "neural cell",
+        "blood",
+        "blood",
+        "-",
+        "fibroblast-like synoviocyte"
+    ],
+    "bile duct carcinoma cell line:HuCCT1": [
+        "RCB1960 cell",
+        "RCB2133 cell",
+        "duct epithelial cell",
+        "epithelial cell of uterus",
+        "bile duct",
+        "UBERON_0010934",
+        "HuCCT-1 cell",
+        "-"
+    ],
+    "Karpas-45": [
+        "KARPAS-45 cell",
+        "-",
+        "T cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "Brodmann area 29"
+    ],
+    "WI-38": [
+        "WI-38 cell",
+        "NCI-H378 cell",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "prepuce of penis",
+        "WI-38 cell",
+        "A-431 cell"
+    ],
+    "Ca Ski": [
+        "Ca Ski cell",
+        "H4II cell",
+        "uterine cervix squamous cell",
+        "endothelial cell of venous sinus of spleen",
+        "uterine cervix",
+        "uterine cervix",
+        "CaSki cell",
+        "larynx"
+    ],
+    "Hs 769.T": [
+        "Hs 769.T cell",
+        "Hep 3B cell",
+        "epithelial cell of urethra",
+        "squamous epithelial cell",
+        "urethra",
+        "nucleus accumbens",
+        "-",
+        "-"
+    ],
+    "NCI-H446_no infection": [
+        "NCI-H446 cell",
+        "NCI-H250 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "insular cortex"
+    ],
+    "MCF7L-P_0h": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-7 cell"
+    ],
+    "SK-N-SH_neuroblastoma": [
+        "SK-N-SH cell",
+        "SK-N-MC cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "SK-N-SH cell",
+        "endothelial cell"
+    ],
+    "HCCLM3": [
+        "-",
+        "P32/ISH cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "HCCLM-3 cell",
+        "-"
+    ],
+    "U266B1": [
+        "U266B1 cell",
+        "-",
+        "B cell",
+        "plasma cell",
+        "blood",
+        "bone marrow",
+        "-",
+        "SP-6.5 cell"
+    ],
+    "OVCAR-3": [
+        "OVCAR-3 cell",
+        "MPRO Cell Line,   Clone 2.1 cell",
+        "epithelial cell",
+        "epithelial cell",
+        "ovary",
+        "ovary",
+        "OVCAR-3 cell",
+        "hybridoma cell line"
+    ],
+    "SW620": [
+        "SW620 cell",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "SW-620 cell",
+        "synovial tissue"
+    ],
+    "TC-32": [
+        "-",
+        "NGP cell",
+        "-",
+        "colon epithelial cell",
+        "musculoskeletal system",
+        "prostate gland",
+        "TC-32 cell",
+        "-"
+    ],
+    "SNU16": [
+        "SNU-16 cell",
+        "T529-15D3-18-  1A3-1B7 cell",
+        "epithelial cell of stomach",
+        "epithelial cell of stomach",
+        "stomach",
+        "stomach",
+        "SNU-16 cell",
+        "Tu-132 cell"
+    ],
+    "GM06077": [
+        "GM06077 cell",
+        "AG09187 cell",
+        "B cell",
+        "neural cell",
+        "blood",
+        "skin epidermis",
+        "-",
+        "meningioma cell line"
+    ],
+    "OCI-LY10_diffuse_large_B-cell_lymphoma": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "lymph node",
+        "blood",
+        "-",
+        "-"
+    ],
+    "hFOB_1_19_fetal_osteoblast": [
+        "hFOB 1.19 cell",
+        "-",
+        "osteoblast",
+        "myoblast",
+        "bone tissue",
+        "bone tissue",
+        "hFOB 1.19 cell",
+        "mammary epithelial cell"
+    ],
+    "H441": [
+        "NCI-H441 cell",
+        "NCI-H1770 cell",
+        "club cell",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H441 cell",
+        "Novikoff hepatoma cell"
+    ],
+    "MO91": [
+        "-",
+        "-",
+        "myeloid cell",
+        "colon epithelial cell",
+        "blood",
+        "colon",
+        "MO-91 cell",
+        "-"
+    ],
+    "T3M-3": [
+        "RCB1018 cell",
+        "-",
+        "trophoblast cell",
+        "colon epithelial cell",
+        "trophoblast",
+        "colon",
+        "-",
+        "-"
+    ],
+    "GM04648": [
+        "GM04648 cell",
+        "ND00270 cell",
+        "B cell",
+        "rectum glandular cell",
+        "blood",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "UACC-62": [
+        "-",
+        "-",
+        "epidermal melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "UACC-62 cell",
+        "SJNB-10 cell"
+    ],
+    "S462_PRC2 mutant": [
+        "-",
+        "-",
+        "myelinating Schwann cell",
+        "epidermal melanocyte",
+        "nervous system",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "FL10": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "lymph node",
+        "brain",
+        "-",
+        "-"
+    ],
+    "MOLM-13_empty vector": [
+        "MOLM-13 cell",
+        "K562/ADM cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-13 cell",
+        "syncytium"
+    ],
+    "iPS-15b Cells": [
+        "-",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "LNCaP_prostate_carcinoma_SHFOXA1_R1881": [
+        "LNCAP cell",
+        "-",
+        "epithelial cell of prostate",
+        "-",
+        "prostate gland",
+        "-",
+        "LNCaP cell",
+        "-"
+    ],
+    "V389": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "LNCaP_prostate_carcinoma_DHT24H_SHFOXA1": [
+        "LNCAP cell",
+        "BM-1604 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "stolon"
+    ],
+    "HL-60_CTRL": [
+        "HL-60 cell",
+        "HIVS-125 cell",
+        "myeloid cell",
+        "CD14-positive monocyte",
+        "blood",
+        "blood",
+        "HL-60 cell",
+        "integument"
+    ],
+    "GIST882_Gastrointestinal_stromal_tumor": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "superior cerebellar vein",
+        "-",
+        "IEC-CF7 cell"
+    ],
+    "T (PB)": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "SKMEL30": [
+        "SK-MEL-30 cell",
+        "SJK-132-20 cell",
+        "melanocyte",
+        "melanocyte",
+        "skin epidermis",
+        "gustatory system",
+        "SK-MEL-30 cell",
+        "ectoplacental cone"
+    ],
+    "RL_WT_gRNA1": [
+        "RL cell",
+        "T98G cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "RL cell",
+        "culture condition:methylamine-grown cell"
+    ],
+    "mesothelioma cell line:ACC-MESO-1": [
+        "RCB2292 cell",
+        "-",
+        "meso-epithelial cell",
+        "T cell",
+        "pleura",
+        "lung",
+        "H-MESO-1 cell",
+        "root quiescent center"
+    ],
+    "RH18": [
+        "-",
+        "-",
+        "bronchial smooth muscle cell",
+        "epithelial cell",
+        "alveolar smooth muscle",
+        "muscle structure",
+        "Rh-18 cell",
+        "-"
+    ],
+    "GM06990": [
+        "GM06990 cell",
+        "-",
+        "B cell",
+        "chondrocyte",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "NB4": [
+        "NB-4 cell",
+        "-",
+        "myeloid cell",
+        "erythroid lineage cell",
+        "blood",
+        "blood",
+        "NB-4 cell",
+        "Xenopus A6 cell"
+    ],
+    "GP5d_colon_adenocarcinoma": [
+        "GP5d cell",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "GM13977_female_B-cells": [
+        "GM13977 cell",
+        "AG11415 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "M0-91_acute_myeloid_leukemia_27A_100UM": [
+        "-",
+        "-",
+        "myeloid cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "MO-91 cell",
+        "-"
+    ],
+    "SUM149": [
+        "SUM149PT cell",
+        "UACC-257 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "SUM-149PT cell",
+        "-"
+    ],
+    "H82": [
+        "NCI-H82 cell",
+        "NCI-H727 cell",
+        "epithelial cell of lung",
+        "kidney cell",
+        "lung",
+        "lung",
+        "NCI-H82 cell",
+        "-"
+    ],
+    "AsPC1 WT": [
+        "AsPC-1 cell",
+        "C-33 A cell",
+        "epithelial cell of pancreas",
+        "nodal myocyte",
+        "pancreas",
+        "pancreas",
+        "AsPC-1 cell",
+        "aorta cell line"
+    ],
+    "iPS DF 6.9 cells": [
+        "human induced pluripotent stem cell line cell",
+        "primary cultured myoblast cell",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "ES-I3 cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "KYAE1": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "-",
+        "esophagus",
+        "spermathecum",
+        "-",
+        "-"
+    ],
+    "HeLa_2_high": [
+        "HeLa cell",
+        "-",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa cell",
+        "HeLa cell"
+    ],
+    "GM09237": [
+        "GM09237 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "RT242": [
+        "-",
+        "-",
+        "-",
+        "lymphocyte",
+        "kidney",
+        "connective tissue",
+        "-",
+        "-"
+    ],
+    "NMFH-1": [
+        "RCB2346 cell",
+        "-",
+        "fibroblast",
+        "CD34-negative, GlyA-negative proerythroblast",
+        "knee",
+        "uterus",
+        "-",
+        "-"
+    ],
+    "SNU484": [
+        "-",
+        "HF2x653 cell",
+        "glandular epithelial cell of stomach",
+        "epithelial cell of stomach",
+        "stomach",
+        "liver",
+        "SNU-484 cell",
+        "-"
+    ],
+    "MCF10CA1a_breast_metastatic_epithelial_cells": [
+        "MCF 10A cell",
+        "Hs 412.Lu cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "kelly_DMSO_3h": [
+        "KELLY cell",
+        "KG-1a cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "KELLY cell",
+        "HTC-C3 cell"
+    ],
+    "gastric adenocarcinoma cell line:MKN45": [
+        "MKN28 cell",
+        "RCB1366 cell",
+        "glandular epithelial cell of stomach",
+        "pancreatic ductal cell",
+        "stomach",
+        "stomach",
+        "MKN-28 cell",
+        "KARPAS-299 cell"
+    ],
+    "BT20": [
+        "-",
+        "HGC-27 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "BT-20 cell",
+        "free-living state"
+    ],
+    "testicular germ cell embryonal carcinoma cell line:NEC14": [
+        "RCB0490 cell",
+        "-",
+        "male germ cell",
+        "male germ cell",
+        "testis",
+        "simple organ",
+        "-",
+        "-"
+    ],
+    "SU-DHL-4": [
+        "SU-DHL-4 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "SU-DHL-4 cell",
+        "-"
+    ],
+    "PrEC": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "NPrEC cell",
+        "Purkinje layer"
+    ],
+    "IMR-90": [
+        "IMR-90 cell",
+        "IMR-90 cell",
+        "fibroblast of lung",
+        "megakaryocyte",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "thyroid gland"
+    ],
+    "diffuse large B-cell lymphoma cell line:CTB-1": [
+        "RCB1316 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "NCI0075": [
+        "-",
+        "-",
+        "-",
+        "lymphocyte",
+        "skeletal muscle tissue",
+        "blood",
+        "-",
+        "soleus"
+    ],
+    "226LDM_normal_breast_luminal_cells": [
+        "-",
+        "-",
+        "luminal epithelial cell of mammary gland",
+        "mammary gland epithelial cell",
+        "breast",
+        "sublingual gland",
+        "-",
+        "-"
+    ],
+    "SW620_colon_adenocarcinoma": [
+        "SW620 cell",
+        "T84.66A3.1A.1F2 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "SW-620 cell",
+        "ocellus"
+    ],
+    "KOPN-8": [
+        "KOPN-8 cell",
+        "-",
+        "B cell",
+        "neural cell",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "OACM5.1": [
+        "-",
+        "-",
+        "epithelial cell of esophagus",
+        "epithelial cell of stomach",
+        "esophagus",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "NCI-H378_p8-15": [
+        "NCI-H378 cell",
+        "NCI-H969 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "B6SUtA1 cell"
+    ],
+    "SW872_TAZ_CAMTA1": [
+        "SW 872 cell",
+        "SW 1783 cell",
+        "adipocyte",
+        "hepatic pit cell",
+        "connective tissue",
+        "connective tissue",
+        "SW-872 cell",
+        "medial geniculate body"
+    ],
+    "adenocarcinoma cell line:IM95m": [
+        "-",
+        null,
+        "epithelial cell of stomach",
+        null,
+        "stomach",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "BJ": [
+        "BJ cell",
+        "-",
+        "foreskin fibroblast",
+        "fibroblast",
+        "prepuce of penis",
+        "prepuce of penis",
+        "BJ cell",
+        "dermal fibroblast"
+    ],
+    "RL95-2": [
+        "RL95-2 cell",
+        "-",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endometrium",
+        "RL95-2 cell",
+        "-"
+    ],
+    "mesothelioma cell line:Mero-84": [
+        "-",
+        null,
+        "mesothelial cell",
+        "squamous epithelial cell",
+        "lung",
+        "pedal digit 3 metatarsal cartilage element",
+        "-",
+        "-"
+    ],
+    "gm19240": [
+        "GM19240 cell",
+        "KURAMOCHI cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "signet ring carcinoma cell line:NUGC-4": [
+        "RCB1939 cell",
+        "RCB1007 cell",
+        "epithelial cell of stomach",
+        "epithelial cell of stomach",
+        "stomach",
+        "stomach",
+        "NUGC-4 cell",
+        "parenchymal cell"
+    ],
+    "iPS_19.11": [
+        "human induced pluripotent stem cell line cell",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "A549_dexamethasone_12h": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "anaplastic large cell lymphoma cell line:Ki-JK": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "H1 Derived Mesenchymal Stem Cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "common myeloid progenitor",
+        "mesenchyme",
+        "adipose tissue",
+        "mesenchymal stem cell",
+        "-"
+    ],
+    "H1 Derived Neuronal Progenitor Cultured Cells": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "Molt4": [
+        "MOLT-4 cell",
+        "MOLT-4 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "MOLT-4 cell",
+        "ovarian epithelial cell"
+    ],
+    "squamous cell carcinoma cell line:T3M-5": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "-",
+        "thyroid gland",
+        "-",
+        "-",
+        "-"
+    ],
+    "SVOG3e_cells_Dox_12h_transduced with V5-FOXL2 C134W": [
+        "-",
+        "-",
+        "granulosa cell",
+        "obsolete stalk cell",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "leiomyoma cell line:10964C": [
+        "-",
+        "tao BpRcl cell",
+        "smooth muscle cell",
+        "visible light photoreceptor cell",
+        "uterus",
+        "pancreas",
+        "-",
+        "Barrett's epithelial cell line"
+    ],
+    "BE2C_DMSO": [
+        "-",
+        "NCI-H1355 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "nervous system",
+        "SK-N-BE(2)C cell",
+        "-"
+    ],
+    "MDA-MB-231-Erbeta_E2_TNFa": [
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell"
+    ],
+    "DHL-9": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "DHL-9 cell",
+        "-"
+    ],
+    "ZR_75_1": [
+        "-",
+        null,
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "ZR-75-1 cell",
+        "-"
+    ],
+    "U2OS_osteosarcoma_SHRCTR": [
+        "U-2 OS cell",
+        "U-2 OS cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "NCI-H1963": [
+        "NCI-H1963 cell",
+        "NCI-H2198 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1963 cell",
+        "-"
+    ],
+    "BIN-67_SMARCA4.T910M": [
+        "-",
+        "HQ00927 cell",
+        "-",
+        "epidermal melanocyte",
+        "ovary",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "JR1 shCtrl": [
+        "-",
+        "-",
+        "-",
+        "anterior lateral line neuromast hair cell",
+        "muscle structure",
+        "peritoneum",
+        "-",
+        "-"
+    ],
+    "EndoC-BH1_human_pancreatic_beta_cell_line": [
+        "-",
+        "-",
+        "type B pancreatic cell",
+        "precursor B cell",
+        "pancreas",
+        "jejunal vein",
+        "-",
+        "-"
+    ],
+    "Burkitt's lymphoma cell line:RAJI": [
+        "Raji cell",
+        "NCI-H847 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "RAJI cell",
+        "node"
+    ],
+    "retinoblastoma cell line:Y79": [
+        "Y79 cell",
+        "PAb 122 cell",
+        "-",
+        "retinal cell",
+        "retina",
+        "eye",
+        "-",
+        "feather calamus"
+    ],
+    "Colo205": [
+        "COLO 205 cell",
+        "4B2 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "Colo-205 cell",
+        "apical meristem"
+    ],
+    "ONE58": [
+        "-",
+        "RCB1996 cell",
+        "mesothelial cell of pleura",
+        "B cell",
+        "pleura",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HASM2_Human_airway_smooth_muscle_2": [
+        "-",
+        "-",
+        "smooth muscle cell",
+        "perineurial cell",
+        "respiratory system smooth muscle",
+        "UBERON_0005888",
+        "-",
+        "adrenal cortex cell line"
+    ],
+    "A549_0h_sciCAR": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "JEG-3": [
+        "JEG-3 cell",
+        "-",
+        "epithelial cell",
+        "retinal cell",
+        "placenta",
+        "germ layer",
+        "JEG-3 cell",
+        "L3-5-3 cell"
+    ],
+    "KM12SM": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "TEX cell"
+    ],
+    "786-O_empty_vector": [
+        "786-O cell",
+        "2A cell",
+        "kidney cell",
+        "kidney cell",
+        "kidney",
+        "kidney",
+        "-",
+        "visceral hump"
+    ],
+    "acute myeloid leukemia (FAB M7) cell line:M-MOK": [
+        "RCB2534 cell",
+        "RCB0174 cell",
+        "megakaryocyte progenitor cell",
+        "monocyte",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "SU.86.86 cell"
+    ],
+    "TC-797": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "-",
+        "thymus",
+        "-",
+        "-",
+        "-"
+    ],
+    "U-937 DE-4": [
+        "RCB0435 cell",
+        "U-87 MG cell",
+        "monocyte",
+        null,
+        "blood",
+        "bone marrow",
+        "U-937 cell",
+        "culture condition:succinate-grown cell"
+    ],
+    "T3M4 wt": [
+        "RCB1021 cell",
+        "SW-1710 cell",
+        "epithelial cell of pancreas",
+        "ecto-epithelial cell",
+        "pancreas",
+        "pancreas",
+        "T3M4 cell",
+        "16-HBE cell"
+    ],
+    "MCF7_FASR": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "CLB-GA-control": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "-",
+        "nervous system",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "DUCaP_prostate_carcinoma": [
+        "-",
+        "RCB1539 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "-"
+    ],
+    "lung adenocarcinoma cell line:PC-14": [
+        "PC-14 cell",
+        "-",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "PC-14 cell",
+        "Barrett's esophagus"
+    ],
+    "293T_2_high": [
+        "HEK293T cell",
+        null,
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293T cell",
+        "HBL-3 cell"
+    ],
+    "JB6_Human_anaplastic_large_cell_lymphoma": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "umbilical artery endothelial cell"
+    ],
+    "HUVEC-C_HUVEC_umbilical_vein_endothelial_cells_TNF_0M": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        "TBY-2 cell"
+    ],
+    "gm19238": [
+        "GM19238 cell",
+        "GM19020 cell",
+        "B cell",
+        "macrophage",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "H1-NPC": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "adrenal gland",
+        "-",
+        "-"
+    ],
+    "H3396_breast_carcinoma": [
+        "-",
+        "T98G cell",
+        "mammary gland epithelial cell",
+        "bronchial epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "MCF-10A": [
+        "MCF 10A cell",
+        "MCF 10A cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-10A cell"
+    ],
+    "CRL-7250": [
+        "-",
+        "-",
+        "fibroblast",
+        "megakaryocyte progenitor cell",
+        "connective tissue",
+        "blood",
+        "-",
+        "-"
+    ],
+    "WPMY-1": [
+        "WPMY-1 cell",
+        "-",
+        "prostate stromal cell",
+        "-",
+        "prostate gland",
+        "adrenal gland",
+        "WPMY-1 cell",
+        "lateral hypothalamus"
+    ],
+    "ps15-u2os-eto": [
+        "U-2 OS cell",
+        "DA00783 cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "-"
+    ],
+    "T24_1_low": [
+        "T24 cell",
+        "CAL-27 cell",
+        "bladder cell",
+        "epididymis glandular cell",
+        "urinary bladder",
+        "neural crest",
+        "T-24 cell",
+        "exocuticle"
+    ],
+    "SW-13": [
+        "SW-13 cell",
+        null,
+        "adrenal gland glandular cell",
+        "exocrine cell",
+        "adrenal gland cortex zone",
+        "ovary",
+        "-",
+        "DU-2 cell"
+    ],
+    "HPBALL": [
+        "HPB-ALL cell",
+        "-",
+        "T cell",
+        "-",
+        "blood",
+        "retina",
+        "HPB-ALL cell",
+        "SW-620 cell"
+    ],
+    "RCC_7860_Renal_cell_carcinoma": [
+        "786-O cell",
+        "BF-11 cell",
+        "kidney cell",
+        null,
+        "kidney",
+        "kidney",
+        "-",
+        "aortic endothelial cell line"
+    ],
+    "HUES8 WT": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "B-CPAP": [
+        "B-CPAP cell",
+        "-",
+        "epithelial cell of thyroid gland",
+        "epithelial cell of thymus",
+        "thyroid gland",
+        "dento-alveolar joint",
+        "B-CPAP cell",
+        "-"
+    ],
+    "esc-h1-3il": [
+        "Line H1 cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "periurethral tissue"
+    ],
+    "iPS-18 Cells": [
+        "-",
+        "C3RL4",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "SF9402": [
+        "-",
+        "OSC-19 cell",
+        "-",
+        "epithelial cell",
+        "brain",
+        "brain",
+        "-",
+        "rhizoid"
+    ],
+    "NKM-1": [
+        "NKM-1 cell",
+        "MMAC-SF cell",
+        "myeloid cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "glioma stem cell"
+    ],
+    "IMR-90_senescent": [
+        "IMR-90 cell",
+        "I-P94 cell",
+        "fibroblast of lung",
+        "megakaryocyte",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "TIG-1 cell"
+    ],
+    "OPK": [
+        "-",
+        "-",
+        "kidney cell",
+        "red sensitive photoreceptor cell",
+        "kidney",
+        "immune system",
+        "-",
+        "-"
+    ],
+    "SK-N-BE_2_-C_resistant_vehicle": [
+        "SK-N-BE(2)-C cell",
+        "SK-N-MC cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "brain",
+        "SK-N-BE(2)C cell",
+        "IPC-298 cell"
+    ],
+    "GM06170_fetal_skin_fibroblasts": [
+        "GM06170 cell",
+        "ND05069 cell",
+        "skin fibroblast",
+        "fibroblast",
+        "skin epidermis",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "U2OS_siNC": [
+        "U-2 OS cell",
+        "FG86 cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "H1_Derived_Neuronal_Progenitor_Cultured_Cells": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "Hs 132.T": [
+        "Hs 132.T cell",
+        "-",
+        "fibroblast",
+        "-",
+        "connective tissue",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "leiomyoma cell line:15425": [
+        "-",
+        "-",
+        "smooth muscle cell",
+        "CL_0000739",
+        "uterus",
+        "uterus",
+        "-",
+        "primordium"
+    ],
+    "H9_Null+EZH2": [
+        "H9 cell",
+        "H460 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "H-9 cell",
+        "chloronema"
+    ],
+    "H1-ESC": [
+        "Line H1 cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "embryonic stem cell"
+    ],
+    "RS4_11_DMSO_4h": [
+        "RS4;11 cell",
+        "-",
+        "lymphocyte of B lineage",
+        "lymphocyte of B lineage",
+        "bone marrow",
+        "bone marrow",
+        "RS4-11 cell",
+        "RCC-4 cell"
+    ],
+    "H69_TGF beta_16h_1": [
+        "NCI-H69 cell",
+        "NCI-N87 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H69 cell",
+        "alveolar wall"
+    ],
+    "MOLT-4": [
+        "MOLT-4 cell",
+        "NCI-H630 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "MOLT-4 cell",
+        "NIH-3T3 cell"
+    ],
+    "CCLP1": [
+        "-",
+        "-",
+        "duct epithelial cell",
+        "pancreatic ductal cell",
+        "bile duct",
+        "stomach",
+        "CCLP-1 cell",
+        "mushroom body"
+    ],
+    "MM1S": [
+        "MM.1S cell",
+        "FU97 cell",
+        "lymphocyte of B lineage",
+        "erythroid progenitor cell",
+        "blood",
+        "blood",
+        "MM1-S cell",
+        "vestibular nucleus"
+    ],
+    "1_H1_ESCs_with_99_fibroblsat": [
+        "Line H1 cell",
+        null,
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "dentin"
+    ],
+    "UCLA1-hESCs": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "progenitor cell of endocrine pancreas",
+        "embryo",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "chronic lymphocytic leukemia (T-CLL) cell line:SKW-3": [
+        "SKW-3 cell",
+        "SW837 cell",
+        "T cell",
+        "B cell",
+        "blood",
+        "blood",
+        "SKW-3 cell",
+        "olfactory nerve"
+    ],
+    "HCC1954_Parental": [
+        "HCC1954 cell",
+        "HCC202 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "HCC-1954 cell",
+        "culture condition:carbon monoxide-grown cell"
+    ],
+    "MCF7_WS8_cells": [
+        "-",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-7 cell"
+    ],
+    "M112": [
+        "-",
+        "-",
+        "bone cell",
+        "-",
+        "bone tissue",
+        "brain",
+        "-",
+        "hESC cell"
+    ],
+    "SET2_Adult_acute_megakaryoblastic_leukemia_Homo_Sapiens": [
+        "-",
+        "-",
+        "megakaryocyte progenitor cell",
+        null,
+        "bone marrow",
+        null,
+        "-",
+        "-"
+    ],
+    "OCI_LY7": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "bone marrow",
+        "OCI-LY7 cell",
+        "-"
+    ],
+    "DND41": [
+        "DND-41 cell",
+        "SW684 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HEK293A_empty-vector_DMSO_6h": [
+        "HEK293",
+        "HEK293",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293 cell",
+        "seminal vesicle"
+    ],
+    "BLUE1": [
+        "-",
+        "-",
+        "B cell",
+        "T cell",
+        "blood",
+        "pancreas",
+        "-",
+        "culture condition:toluene-grown cell"
+    ],
+    "ES-I3_Cell_Line": [
+        "-",
+        "L-1236 cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "hepatocellular carcinoma cell line: HepG2 ENCODE biol_rep2": [
+        "Hep G2 cell",
+        "Hep G2 cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "Hep-G2 cell",
+        "Hep-G2 cell"
+    ],
+    "BxPC3_sgNEG": [
+        "BxPC-3 cell",
+        "C127:LT cell",
+        "epithelial cell of pancreas",
+        "pancreatic ductal cell",
+        "pancreas",
+        "pancreas",
+        "BxPC-3 cell",
+        "articular cartilage"
+    ],
+    "H9 Derived Neuron Cultured Cells": [
+        "-",
+        "-",
+        "neuron",
+        "serous secreting cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "CLL1252": [
+        "-",
+        "-",
+        "lymphocyte",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HUES48": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "RH4_sgBRG1": [
+        "-",
+        "-",
+        "bronchial smooth muscle cell",
+        "immature CD1a-positive Langerhans cell",
+        "alveolar smooth muscle",
+        "alveolar smooth muscle",
+        "Rh-4 cell",
+        "HOM-2 cell"
+    ],
+    "M0-91_acute_myeloid_leukemia": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MO-91 cell",
+        "-"
+    ],
+    "KOPT-K1": [
+        "-",
+        "-",
+        "T cell",
+        "-",
+        "blood",
+        "bone tissue",
+        "KOPT-K1 cell",
+        "-"
+    ],
+    "LHSAR_prostate_epithelial_cells_LACZ": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "-"
+    ],
+    "HeLa-B2_TA": [
+        "-",
+        "-",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "-",
+        "-"
+    ],
+    "PC-3": [
+        "PC-3 cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "PC-3 cell",
+        "tendon sheath"
+    ],
+    "MDA-MB-134-VI": [
+        "MDA-MB-134-VI cell",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "hESC-1_Embryonic_stem_cells_PRIMED": [
+        "Line H1 cell",
+        "human embryonic stem cell line cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "hESC cell"
+    ],
+    "K-562": [
+        "K-562 cell",
+        null,
+        "myeloid cell",
+        "myeloid cell",
+        "bone marrow",
+        "bone marrow",
+        "K-562 cell",
+        "K-562 cell"
+    ],
+    "P493-6": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "P493-6 cell",
+        "-"
+    ],
+    "BC3_TPA_4H": [
+        "BC-3 cell",
+        "-",
+        "B cell",
+        "obsolete epithem cell",
+        "blood",
+        "vasculature",
+        "BC-3 cell",
+        "-"
+    ],
+    "TC71_WT": [
+        "TC-71 cell",
+        "FH 29 cell",
+        "bone cell",
+        "osteoblast",
+        "bone tissue",
+        "carotid body",
+        "TC-71 cell",
+        "enamel knot"
+    ],
+    "SW403": [
+        "SW403 cell",
+        "GM17362 cell",
+        "colon epithelial cell",
+        "uterine cervix squamous cell",
+        "colon",
+        "colon",
+        "SW-403 cell",
+        "bronchoalveolar stem cell"
+    ],
+    "GM10266_male_B-cells": [
+        "GM10266 cell",
+        "ND14392 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "WA01": [
+        "-",
+        "Line H1 cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "WA-01 cell",
+        "-"
+    ],
+    "small-cell gastrointestinal carcinoma cell line:ECC4": [
+        "RCB0982 cell",
+        "HSC0030 cell",
+        "epithelial cell of large intestine",
+        "epithelial cell of alveolus of lung",
+        "rectum",
+        "colon",
+        "-",
+        "-"
+    ],
+    "GM19239_male_B-cells_lymphoblastoid_cell_line": [
+        "GM19239 cell",
+        "DA01193 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "MDA-MB-361": [
+        "MDA-MB-361 cell",
+        "HCC1739 BL cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-361 cell",
+        "MDA-MB-453 cell"
+    ],
+    "MCF7L-P": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "HFL-1": [
+        "HFL cell",
+        "GH 1 cell",
+        "fibroblast of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "HFL-1 cell",
+        "SK-6 cell"
+    ],
+    "leiomyoblastoma cell line:G-402": [
+        "G-402 cell",
+        "EHT cell",
+        "kidney cell",
+        "tracheal epithelial cell",
+        "kidney",
+        "endocrine gland",
+        "G-402 cell",
+        "corn silk"
+    ],
+    "GM18508": [
+        "GM18508 cell",
+        "DA00895 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "Hep-3B2-1-7": [
+        "Hep 3B2.1-7 cell",
+        "-",
+        "hepatocyte",
+        "contractile cell",
+        "liver",
+        "liver",
+        "-",
+        "-"
+    ],
+    "C666-1": [
+        "-",
+        "ND00680 cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "nasopharynx",
+        "uterine cervix",
+        "C666-1 cell",
+        "-"
+    ],
+    "SKNDZ": [
+        "SK-N-DZ cell",
+        "T.Tn cell",
+        "neuroblast (sensu Vertebrata)",
+        "single fate stem cell",
+        "brain",
+        "brain",
+        "SK-N-DZ cell",
+        "-"
+    ],
+    "MDA-MB-231p27CK-DD_breast_cancer_cells_phosphimimetic_p27_cell_line": [
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell"
+    ],
+    "HEK": [
+        "-",
+        "DA04164 cell",
+        "kidney cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "embryonic kidney cell line",
+        "LNCaP cell"
+    ],
+    "TC32": [
+        "-",
+        "-",
+        "-",
+        "T cell",
+        "musculoskeletal system",
+        "blood",
+        "TC-32 cell",
+        "-"
+    ],
+    "GM20000_B-cells": [
+        "GM20000 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "acute myeloid leukemia (FAB M2) cell line:NKM-1": [
+        "NKM-1 cell",
+        "MS1 VEGF cell",
+        "myeloid cell",
+        "erythroid lineage cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "A549_dexamethasone_8h": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "SET-2_WT_GSK-LSD1": [
+        "-",
+        "-",
+        "megakaryocyte progenitor cell",
+        "lymphocyte of B lineage",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "adrenal cortex adenocarcinoma cell line:SW-13": [
+        "SW-13 cell",
+        "KY821A3 cell",
+        "adrenal gland glandular cell",
+        "erythroid progenitor cell",
+        "adrenal gland cortex zone",
+        "connective tissue",
+        "-",
+        "KB-V1 cell"
+    ],
+    "KYSE-70": [
+        "KYSE-70 cell",
+        "LN-18 cell",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "NCI-H441": [
+        "NCI-H441 cell",
+        "NCI-H747 cell",
+        "club cell",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H441 cell",
+        "endothelioma cell"
+    ],
+    "BEAS-2B": [
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "-",
+        "bronchus",
+        "-",
+        "-",
+        "-"
+    ],
+    "SNF02.2_PRC2 WT": [
+        "-",
+        "-",
+        "Schwann cell",
+        "-",
+        "peripheral nervous system",
+        "-",
+        "-",
+        "-"
+    ],
+    "TTC1240_SMARCB1_delCC": [
+        "-",
+        "-",
+        "kidney cell",
+        "colon epithelial cell",
+        "kidney",
+        "angular gyrus",
+        "-",
+        "-"
+    ],
+    "P493": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "P493-6 cell",
+        "-"
+    ],
+    "226LDM": [
+        "-",
+        "-",
+        "luminal epithelial cell of mammary gland",
+        null,
+        "breast",
+        "brain",
+        "-",
+        "-"
+    ],
+    "HCT116_IFN-beta_1h": [
+        "HCT 116 cell",
+        "HCT 116 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "H54": [
+        "-",
+        "-",
+        "glial cell",
+        "epithelial melanocyte",
+        "brain",
+        "immune system",
+        "-",
+        "-"
+    ],
+    "David_TC71": [
+        "TC-71 cell",
+        "GM03073 cell",
+        "bone cell",
+        "B cell",
+        "bone tissue",
+        "blood",
+        "TC-71 cell",
+        "-"
+    ],
+    "CD4_CD25-_T-cells": [
+        "-",
+        "-",
+        "T cell",
+        "mature NK T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "GM10248": [
+        "GM10248 cell",
+        "ND07740 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "WSU-DLCL2": [
+        "WSU-DLCL2 cell",
+        "OC-314 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "A-498": [
+        "-",
+        "DV68F cell",
+        "kidney cell",
+        "kidney inner medulla collecting duct epithelial cell",
+        "kidney",
+        "kidney",
+        "-",
+        "leiomyosarcoma cell"
+    ],
+    "Ramos": [
+        "RAMOS cell",
+        "RFGd11WE cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "RAMOS (RA.1) cell",
+        "pod"
+    ],
+    "SK-N-DZ": [
+        "SK-N-DZ cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "nervous system",
+        "SK-N-DZ cell",
+        "UMR-108 cell"
+    ],
+    "hereditary spherocytic anemia cell line:WIL2-NS": [
+        "WIL2-NS cell",
+        "2B4 cell",
+        "lymphocyte of B lineage",
+        "dendritic epidermal T cell",
+        "spleen",
+        "bone marrow",
+        "-",
+        "papillary adenocarcinoma cell"
+    ],
+    "Calu-1": [
+        "Calu-1 cell",
+        "DU1-29 cell",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "lung",
+        "subcutaneous adipose tissue",
+        "Calu-1 cell",
+        "bile canaliculus"
+    ],
+    "A139_ER-_PR-_HER2-_breast_cancer_cells": [
+        "-",
+        "DG 2 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "PC6-14 cell"
+    ],
+    "DLD": [
+        "DLD-1 cell",
+        null,
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "DLD-1 cell",
+        "synovial sarcoma cell"
+    ],
+    "NCI-H69_p8-15": [
+        "NCI-H69 cell",
+        "NCI-N87 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H69 cell",
+        "ovary adenocarcinoma cell line"
+    ],
+    "mesothelioma cell line:Mero-48a": [
+        "-",
+        "-",
+        "mesothelial cell",
+        "mesothelial cell",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "GM-6114": [
+        "GM06114 cell",
+        "DA01305 cell",
+        "fibroblast of lung",
+        "Ly-76 high reticulocyte",
+        "lung",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "WA01_H1_human_embryonic_stem_cells_EMB": [
+        "-",
+        "SNU-C4 cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "heart",
+        "WA-01 cell",
+        "cholangioma cell"
+    ],
+    "MRC-5_MRC5_1DPT": [
+        "MRC-5 cell",
+        "P0894 cell",
+        "fibroblast of lung",
+        "fibroblast",
+        "lung",
+        "lung",
+        "MRC-5 cell",
+        "reticuloendothelial system"
+    ],
+    "CRC107_colorectal_cancer_metastatic_stem_cells": [
+        "-",
+        "-",
+        "stem cell",
+        "stromal cell of bone marrow",
+        "colon",
+        null,
+        "-",
+        "-"
+    ],
+    "KG-1": [
+        "KG-1 cell",
+        "mSXL 5 cell",
+        "macrophage",
+        "myeloid cell",
+        "bone marrow",
+        "bone marrow",
+        "KG-1 cell",
+        "haustorial mother cell"
+    ],
+    "KYSE150": [
+        "KYSE-150 cell",
+        "MEC-2 cell",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "esophagus",
+        "KYSE-150 cell",
+        "-"
+    ],
+    "BJEL": [
+        "-",
+        "-",
+        "foreskin fibroblast",
+        "foreskin fibroblast",
+        "prepuce of penis",
+        "-",
+        "-",
+        "-"
+    ],
+    "PFSK1_primitive_neuroectodermal_tumor": [
+        "PFSK-1 cell",
+        "-",
+        "fibroblast",
+        "neural progenitor cell",
+        "brain",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "HN12": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "tongue",
+        "esophagus",
+        "HN-12 cell",
+        "-"
+    ],
+    "KBM7-derived near haploid cells": [
+        "-",
+        "-",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "KBM-7 cell",
+        "-"
+    ],
+    "DLD1_WT": [
+        "DLD-1 cell",
+        "EFO-21 cell",
+        "colon epithelial cell",
+        "cardiac endothelial cell",
+        "colon",
+        "colon",
+        "DLD-1 cell",
+        "feather calamus"
+    ],
+    "HFF_foreskin_fibroblast_OHT_SHBPTF": [
+        "-",
+        "-",
+        "foreskin fibroblast",
+        "fibroblast",
+        "prepuce of penis",
+        "prepuce of penis",
+        "-",
+        "BL-60 cell"
+    ],
+    "SET-2_insR_GSK-LSD1": [
+        "-",
+        "-",
+        "megakaryocyte progenitor cell",
+        "bone cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "hindleg"
+    ],
+    "LOXIMVI": [
+        "-",
+        "-",
+        "epidermal melanocyte",
+        "-",
+        "skin epidermis",
+        "-",
+        "-",
+        "-"
+    ],
+    "MCF7-Tet-On": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-7 cell"
+    ],
+    "BT549": [
+        "BT-549 cell",
+        "BW5147.G.1.4.OUAR.1 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "BT-549 cell",
+        "plume"
+    ],
+    "MT4H1": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "cord blood derived cell line:COBL-a 24h infection(-C)": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        null,
+        "umbilical cord",
+        "ventral patch of Leydig's organ",
+        "-",
+        "-"
+    ],
+    "H3122_LR": [
+        "NCI-H3122 cell",
+        "ALL-SIL cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "SK-LMS-1_WT": [
+        "SK-LMS-1 cell",
+        "MM2SCT cell",
+        "smooth muscle cell",
+        null,
+        "uterus",
+        "endometrium",
+        "SK-LMS-1 cell",
+        "thalamic nucleus"
+    ],
+    "MaMel": [
+        "-",
+        "-",
+        "stromal cell",
+        "amniocyte",
+        "digestive system",
+        "breast",
+        "-",
+        "WPMY-1 cell"
+    ],
+    "SNU638": [
+        "-",
+        null,
+        "glandular epithelial cell of stomach",
+        "myoblast",
+        "stomach",
+        "pancreas",
+        "SNU-638 cell",
+        "endomysium"
+    ],
+    "H7 UTXKO": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "-",
+        "embryo",
+        "WA-07 cell",
+        "-"
+    ],
+    "DU145_prostate_carcinoma": [
+        "DU 145 cell",
+        "BF-G6 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "DU-145 cell",
+        "sweat gland"
+    ],
+    "WT 9-12_control_vehicle": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "GLC16_DMSO": [
+        "-",
+        "-",
+        "epithelial cell of lung",
+        null,
+        "lung",
+        "stomach",
+        "-",
+        "-"
+    ],
+    "A375 DMSO": [
+        "A-375 cell",
+        "A549 cell",
+        "epidermal melanocyte",
+        "epidermal melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "A-375 cell",
+        "meniscus"
+    ],
+    "J4_Mantle cell lymphoma tissue_THZ1": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "GIST-2_KIT e11": [
+        "-",
+        "-",
+        "neural cell",
+        "-",
+        "digestive tract",
+        "pancreas",
+        "-",
+        "U-343MG-A cell"
+    ],
+    "Neuroblastoma_NB1": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "NB-1 cell",
+        "MDA-MB-435 cell"
+    ],
+    "SK-N-BE_2_-C": [
+        "SK-N-BE(2)-C cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "SK-N-BE(2)C cell",
+        "-"
+    ],
+    "H9_0Dox": [
+        "H9 cell",
+        "H9 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "H-9 cell",
+        "BW-5147.3 cell"
+    ],
+    "H1_Derived_Mesenchymal_Stem_Cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "CL_0000044",
+        "mesenchyme",
+        "-",
+        "mesenchymal stem cell",
+        "-"
+    ],
+    "SVOG3e_cells_noDox_transduced with V5-FOXL2 C134W": [
+        "-",
+        "-",
+        "granulosa cell",
+        "epithelial cell",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "TE5": [
+        "TE cell",
+        "-",
+        "squamous epithelial cell",
+        "stem cell",
+        "esophagus",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "lncaparmo-ar-dht100nm": [
+        "LNCAP cell",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "-"
+    ],
+    "KLM-1": [
+        "RCB2138 cell",
+        "RCB1773 cell",
+        "pancreatic ductal cell",
+        "myofibroblast cell",
+        "pancreas",
+        "liver",
+        "-",
+        "outer fibrous layer of perichondrium"
+    ],
+    "OCI-LY19_diffuse_large_B-cell_lymphoma": [
+        "OCI-LY-19 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "SF767": [
+        "-",
+        "NCI-H1993 cell",
+        "glial cell",
+        "neural cell",
+        "brain",
+        "brain",
+        "SF-767 cell",
+        "-"
+    ],
+    "NCI-H2107_p8-15": [
+        "NCI-H2107 cell",
+        "NCI-H446 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "culture condition:wheat bran-grown cell"
+    ],
+    "MV411_DMSO": [
+        "MV-4-11 cell",
+        "JVM-2 cell",
+        "macrophage",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MV-4-11 cell",
+        null
+    ],
+    "osteoclastoma cell line:Hs 706.T": [
+        "Hs 706.T cell",
+        "HBL-1 cell",
+        "bone marrow cell",
+        "CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",
+        "bone marrow",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "clear cell carcinoma cell line:TEN": [
+        "RCB1433 cell",
+        "-",
+        "epithelial cell of uterus",
+        "squamous epithelial cell",
+        "endometrium",
+        "duodenum",
+        "-",
+        "-"
+    ],
+    "NCI-H650": [
+        "NCI-H650 cell",
+        "NCI-H596 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "H-650 cell",
+        "sensory ganglion"
+    ],
+    "LM7": [
+        "-",
+        "-",
+        "bone cell",
+        "-",
+        "bone tissue",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "MIC": [
+        "-",
+        "-",
+        "bone cell",
+        "lymphocyte",
+        "bone tissue",
+        "blood",
+        "-",
+        "-"
+    ],
+    "cholangiocellular carcinoma cell line:HuH-28": [
+        "RCB1943 cell",
+        "HTC-C3 cell",
+        "cholangiocyte",
+        "epithelial cell",
+        "liver",
+        "duodenum",
+        "-",
+        "-"
+    ],
+    "squamous cell lung carcinoma cell line:EBC-1": [
+        "RCB1965 cell",
+        "RCB0409 cell",
+        "squamous epithelial cell",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "GM15850 LCLs (FRDA)": [
+        "GM15850 cell",
+        "DA00874 cell",
+        "lymphocyte of B lineage",
+        "lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "RMS246_PAX3-NCOA1": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "CL_0000044",
+        "striated muscle tissue",
+        "adipose tissue",
+        "rhabdomyosarcoma cell",
+        "-"
+    ],
+    "NT2-D1_embryonic_carcinoma": [
+        "NT2-D1 cell",
+        "SW962 cell",
+        "pluripotent stem cell",
+        "precursor B cell",
+        "testis",
+        "skeletal musculature of head",
+        "NT2/D1 cell",
+        "-"
+    ],
+    "AG04450_fibroblasts": [
+        "-",
+        null,
+        "fibroblast of lung",
+        "fibroblast",
+        "lung",
+        "connective tissue",
+        "-",
+        "-"
+    ],
+    "MOLM-13_sgSIK3e4": [
+        "MOLM-13 cell",
+        "B2-17 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-13 cell",
+        "KLE cell"
+    ],
+    "PC3_GSK126": [
+        "PC-3 cell",
+        "VAL cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "PC-3 cell",
+        "MFBY2 cell"
+    ],
+    "HCC1143_ductal_breast_carcinoma": [
+        "HCC1143 cell",
+        "fR2 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "SUIT2 WT": [
+        "SUIT-2 cell",
+        "RCB3052 cell",
+        "epithelial cell of exocrine pancreas",
+        "bone marrow cell",
+        "exocrine pancreas",
+        "compound eye",
+        "SUIT-2 cell",
+        "glioma sphere-forming cell"
+    ],
+    "HCC95_squamous_cell_lung_carcinoma": [
+        "-",
+        "PCA90M cell",
+        "squamous epithelial cell",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "LK-2": [
+        "RCB1970 cell",
+        "RCB2900 cell",
+        "squamous epithelial cell",
+        "epithelial cell",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "TE7": [
+        "TE7 cell",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "NCI-H1299": [
+        "NCI-H1299 cell",
+        "NCI-H1299 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1299 cell",
+        "J-96 cell"
+    ],
+    "Human Podocyte Cell Line AB8/13": [
+        "-",
+        "-",
+        "kidney epithelial cell",
+        "skin fibroblast",
+        "glomerular capsule",
+        "kidney",
+        "-",
+        "PC-12K cell"
+    ],
+    "GIST-T1": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "stomach",
+        "digestive tract",
+        "-",
+        "-"
+    ],
+    "KMS-11_Plasma_cell_myeloma": [
+        "-",
+        "Mo-T cell",
+        "plasma cell",
+        "lymphocyte of B lineage",
+        "bone marrow",
+        "blood",
+        "KMS-11 cell",
+        "-"
+    ],
+    "MC-IXC": [
+        "MC-IXC cell",
+        "-",
+        "fibroblast",
+        "colon epithelial cell",
+        "brain",
+        "synovial joint of pectoral girdle",
+        "SK-N-MC-IXC cell",
+        "CNE-1 cell"
+    ],
+    "CLB-PE": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "erythrophore",
+        "nervous system",
+        "mouth",
+        "-",
+        "-"
+    ],
+    "mycosis fungoides T cell lymphoma cell line:HuT 102 TIB-162": [
+        "HuT 102 cell",
+        "PA94 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "PC6-5 cell"
+    ],
+    "BGO3_embryonic_stem_cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "MCF7L-P_FOXA1-Dox": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "COBL-a": [
+        "-",
+        "-",
+        "hematopoietic cell",
+        "hepatocyte",
+        "umbilical cord",
+        "nervous system",
+        "-",
+        "alveolar epithelial cell"
+    ],
+    "HCC95": [
+        "-",
+        "primary cultured peripheral blood cell",
+        "squamous epithelial cell",
+        "epithelial cell of lung",
+        "lung",
+        "simple organ",
+        "-",
+        "-"
+    ],
+    "HCC1428": [
+        "HCC1428 cell",
+        "5637 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "endothelioma cell"
+    ],
+    "MCF7_Invasive_ductal_breast_carcinoma_CHX_10UM": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "peripheral neuroectodermal tumor cell line:KU-SN": [
+        "RCB1317 cell",
+        "-",
+        "neural cell",
+        "neuroblast (sensu Vertebrata)",
+        "bone tissue",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "HCC1599_WO": [
+        "HCC1599 cell",
+        "HCC1143 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "GIST-10_PDGFRA e1": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "digestive tract",
+        "-",
+        "-"
+    ],
+    "GP5d_colon_adenocarcinoma_SIRAD21": [
+        "GP5d cell",
+        "-",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "SK-MEL-147": [
+        "-",
+        "TTD10PV cell",
+        "melanocyte",
+        "epidermal melanocyte",
+        "skin epidermis",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "SHEP-21N_DOX_2h": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "Tet21N cell",
+        "-"
+    ],
+    "OECM1_oral_cavity_squamous_cell_carcinoma": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "gingiva",
+        "skin epidermis",
+        "OECM-1 cell",
+        "KU-7 cell"
+    ],
+    "EW-3": [
+        "-",
+        "-",
+        "bone cell",
+        "stem cell",
+        "bone tissue",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "GM19240_B_cells_Lymphoblastoid_Cell_Lines": [
+        "GM19240 cell",
+        "DA01320 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "IOE11": [
+        "-",
+        "-",
+        "ovarian surface epithelial cell",
+        "colon epithelial cell",
+        "ovary",
+        "duodenum",
+        "-",
+        "-"
+    ],
+    "MM1_S_plasma_cell_myeloma": [
+        "MM.1S cell",
+        "HUPEC 005 FSGS G1/G2 cell",
+        "lymphocyte of B lineage",
+        "lymphocyte of B lineage",
+        "blood",
+        "connective tissue",
+        "MM1-S cell",
+        "HO-8910PM"
+    ],
+    "PF-382_childhood_T_acute_lymphoblastic_leukemia": [
+        "PF-382 cell",
+        "RAW-Blue cell",
+        "T cell",
+        "epithelial cell of prostatic urethra",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "KK1_Adult_T_acute_lymphoblastic_leukemia": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "H1-TRO": [
+        "-",
+        "-",
+        "trophoblast cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "trophoblast",
+        "-"
+    ],
+    "ES-UCSF4 Cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "myxofibrosarcoma cell line:MFH-ino": [
+        "RCB0749 cell",
+        "RCB1096 cell",
+        "-",
+        "cardiac muscle cell (sensu Arthopoda)",
+        "connective tissue",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "lncaparhi-ar-dht1nm": [
+        "LNCAP cell",
+        "Mo cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP cell",
+        "KIJ-308T cell"
+    ],
+    "MCF7L-P_E2_24h": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "MCF-7 cell"
+    ],
+    "D341_6": [
+        "D341 Med cell",
+        "D341 Med cell",
+        "neural cell",
+        "neural cell",
+        "cerebellum",
+        "parasympathetic nervous system",
+        "-",
+        "-"
+    ],
+    "gm18505": [
+        "GM18505 cell",
+        "GM09629 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "Raji_JQ1": [
+        "Raji cell",
+        "P388D1 (IL-1) cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "RAJI cell",
+        "seminal vesicle"
+    ],
+    "Ly-1": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "IMR90_lung_fibroblasts_TNF": [
+        "IMR-90 cell",
+        "IPC-298 cell",
+        "fibroblast of lung",
+        "fibroblast of lymphatic vessel",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "tuberous root"
+    ],
+    "Detroit562": [
+        "Detroit 562 cell",
+        "Le Ana cell",
+        "epithelial cell of alimentary canal",
+        "epithelial cell of stomach",
+        "pharynx",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "AsPC1-untreated": [
+        "AsPC-1 cell",
+        "C0994IL2 cell",
+        "epithelial cell of pancreas",
+        "type II cell of adrenal medulla",
+        "pancreas",
+        "pancreas",
+        "AsPC-1 cell",
+        "puerperal osteomalacia cell"
+    ],
+    "Be2-C": [
+        "-",
+        "514 cell",
+        "neuroblast (sensu Vertebrata)",
+        null,
+        "brain",
+        "brain",
+        "SK-N-BE(2)C cell",
+        "honey sac"
+    ],
+    "HBL1": [
+        "HBL-1 cell",
+        "SW403 cell",
+        "B cell",
+        "cardiac endothelial cell",
+        "blood",
+        "blood",
+        "HBL-1 cell",
+        "culture condition:nicotine-grown cell"
+    ],
+    "THP-1_untr": [
+        "THP-1 cell",
+        "THP-1 cell",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "THP-1 cell",
+        "mitral cell layer"
+    ],
+    "H1-hESC": [
+        "Line H1 cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "U-87MG/DDP cell"
+    ],
+    "NCI-H1385": [
+        "NCI-H1385 cell",
+        "NCI-H841 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "HCT-116": [
+        "HCT 116 cell",
+        "HCT 116 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "SJNB3": [
+        "-",
+        "LC4-1 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "SH-SY5Y_DMSO_3h": [
+        "SH-SY5Y cell",
+        "T-47D cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "bone marrow",
+        "brain",
+        "SH-SY5Y cell",
+        "A-431 cell"
+    ],
+    "u2os-actd-ps46": [
+        "U-2 OS cell",
+        "Ha Fe cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "Kasumi-1_acute_myeloblastic_leukemia": [
+        "Kasumi-1 cell",
+        "OVTOKO cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "Kasumi-1 cell",
+        "pseudostem"
+    ],
+    "TAMR_E2": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "pulmonary alveolar type 2 cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "chronic myelogenous leukemia cell line:K562 ENCODE biol_rep2": [
+        "K-562 cell",
+        "K1 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "bone marrow",
+        "bone marrow",
+        "K-562 cell",
+        "K-562 cell"
+    ],
+    "THP1_DMSO_noPMA": [
+        "THP-1 cell",
+        "THP-1 cell",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "THP-1 cell",
+        "BmN4-IR cell"
+    ],
+    "NCI-H3122_lung_adenocarcinoma": [
+        "NCI-H3122 cell",
+        "REC-1 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "HeLa-B2_GRKD_TA_TNFA": [
+        "-",
+        "-",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "-",
+        "-"
+    ],
+    "KMLS-1": [
+        "-",
+        "-",
+        "adipocyte",
+        "bone cell",
+        "adipose tissue",
+        "brain",
+        "-",
+        "-"
+    ],
+    "HUES6": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "clitoral smooth muscle"
+    ],
+    "HUVEC-C_HUVEC_umbilical_vein_endothelial_cells": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        "CGR-8 cell"
+    ],
+    "CFPAC1": [
+        "CFPAC-1 cell",
+        "CM91ls cell",
+        "epithelial cell of pancreas",
+        "nodal myocyte",
+        "pancreas",
+        "pancreas",
+        "CFPAC-1 cell",
+        "-"
+    ],
+    "H1 derived mesenchymal stem cells": [
+        "-",
+        "-",
+        "mesenchymal stem cell",
+        "B-1 B cell",
+        "mesenchyme",
+        "bone marrow",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell"
+    ],
+    "vcap-dht-mdv3100": [
+        "VCaP cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "VCaP cell",
+        "mammary epithelial cell"
+    ],
+    "liposarcoma cells_LP6": [
+        "-",
+        "-",
+        "adipocyte",
+        "adipocyte",
+        "adipose tissue",
+        "adipose tissue",
+        "-",
+        "-"
+    ],
+    "OCI-LY1_966": [
+        "-",
+        "MLMA cell",
+        "B cell",
+        "B cell",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "ChaGo-K-1": [
+        "ChaGo-K-1 cell",
+        "-",
+        "bronchial epithelial cell",
+        "stem cell",
+        "bronchus",
+        "ovary",
+        "ChaGo-K-1 cell",
+        "-"
+    ],
+    "BG01V": [
+        "hES BG01V cell",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "TUHR10TKB": [
+        "RCB1275 cell",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "-",
+        "TUHR-10TKB cell",
+        "-"
+    ],
+    "MOLM-14": [
+        "-",
+        "K562/ADM cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-14 cell",
+        "-"
+    ],
+    "SAH_WT": [
+        "induced pluripotent stem cell line cell",
+        "-",
+        "pluripotent stem cell",
+        "-",
+        "embryo",
+        "-",
+        "hiPSC cell",
+        "-"
+    ],
+    "adult T-cell leukemia cell line:ATN-1": [
+        "RCB1440 cell",
+        "E. Derm (NBL-6) cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "SU-DHL-1_Anaplastic_large_cell_lymphoma": [
+        "SU-DHL-1 cell",
+        "SCCH-196 cell",
+        "lymphocyte",
+        "B cell",
+        "blood",
+        "blood",
+        "SU-DHL-1 cell",
+        "-"
+    ],
+    "Caco-2_colon_adenocarcinoma": [
+        "Caco-2 cell",
+        "Caco-2 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "CACO-2 cell",
+        "CACO-2 cell"
+    ],
+    "PER-117": [
+        "-",
+        "-",
+        "T cell",
+        "-",
+        "blood",
+        "colon",
+        "-",
+        "-"
+    ],
+    "NGP": [
+        "NGP cell",
+        "SU-DHL-6 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "-",
+        "OSRGA cell"
+    ],
+    "H1_Neural_Progenitor_Cells": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "MDA-Pca-2b": [
+        "-",
+        "L-NGC-5HT2 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "MDA-PCa-2b cell",
+        null
+    ],
+    "PC_3": [
+        "PC-3 cell",
+        "immortal electrically active cell line cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "PC-3 cell",
+        "-"
+    ],
+    "PA-1": [
+        "PA-1 cell",
+        "NCI-BL2028 cell",
+        "female germ cell",
+        "Purkinje myocyte",
+        "ovary",
+        "ovary",
+        "PA-1 cell",
+        "roe"
+    ],
+    "SNU-398": [
+        "SNU-398 cell",
+        null,
+        "hepatocyte",
+        "mammary gland epithelial cell",
+        "liver",
+        "stomach",
+        "SNU-398 cell",
+        "-"
+    ],
+    "epidermoid carcinoma cell line:Ca Ski": [
+        "Ca Ski cell",
+        "CO 88BV59-1 cell",
+        "uterine cervix squamous cell",
+        "epithelial cell",
+        "uterine cervix",
+        "skin epidermis",
+        "CaSki cell",
+        "melan-a cell"
+    ],
+    "NT2-D1": [
+        "NT2-D1 cell",
+        "FH 63 cell",
+        "pluripotent stem cell",
+        null,
+        "testis",
+        "prostate gland",
+        "NT2/D1 cell",
+        "-"
+    ],
+    "A549_1": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "iPS-DF-6.9": [
+        "human induced pluripotent stem cell line cell",
+        "primary cultured peripheral blood mononuclear cell",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "Rh1": [
+        "RH-1 cell",
+        "RCB0533 cell",
+        "embryonic stem cell",
+        "-",
+        "-",
+        "body of pancreas",
+        "Rh-1 cell",
+        "-"
+    ],
+    "BCBL-1": [
+        "-",
+        "MDCK-II cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "BCBL-1 cell",
+        "T-47 cell"
+    ],
+    "MOLM13_SIK3TQ": [
+        "MOLM-13 cell",
+        "LC4-1 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-13 cell",
+        "leaf collar"
+    ],
+    "U266_plasma_cell_myeloma": [
+        "U-266 cell",
+        "NCI-H2059 cell",
+        "myeloid cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "umbilical cord",
+        "U-266 cell",
+        "SAOS-2 cell"
+    ],
+    "iPS-20b_Cell_Line": [
+        "human induced pluripotent stem cell line cell",
+        "primary cultured muscle precursor cell",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "HUDEP-2_WT": [
+        "-",
+        "-",
+        "erythroid progenitor cell",
+        "erythroid progenitor cell",
+        "umbilical cord blood",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "GBM_R28": [
+        "-",
+        "-",
+        "neural cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "HPAFII WT": [
+        "-",
+        "JM1 cell",
+        "pancreas exocrine glandular cell",
+        "hepatocyte",
+        "pancreas",
+        "pancreas",
+        "HPAF-2 cell",
+        "merocrine gland"
+    ],
+    "RL_R1446C_gRNA1": [
+        "RL cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "testis",
+        "RL cell",
+        "aortic valve"
+    ],
+    "SK-N-BE_2_-C_naive_JQ1": [
+        "SK-N-BE(2)-C cell",
+        "SK-MEL-1 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "SK-N-BE(2)C cell",
+        "lamina propria"
+    ],
+    "T778": [
+        "-",
+        "-",
+        "fibroblast",
+        "lymphocyte",
+        "retroperitoneal space",
+        "blood",
+        "-",
+        "-"
+    ],
+    "cord blood derived cell line:COBL-a untreated": [
+        "-",
+        "ND08662 cell",
+        "hematopoietic cell",
+        "hematopoietic stem cell",
+        "umbilical cord",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "PEO1_ovarian_cystadenocarcinoma": [
+        "-",
+        "-",
+        "epithelial cell",
+        "colon epithelial cell",
+        "ovary",
+        "ovary",
+        "PEO-1 cell",
+        "UW228-3 cell"
+    ],
+    "HCT116_Heterozygous_ARID1A-KO": [
+        "HCT 116 cell",
+        "HCT 116 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "RL95-2_endometrial_adenosquamous_carcinoma": [
+        "RL95-2 cell",
+        "RC-K8 cell",
+        "epithelial cell of uterus",
+        "epithelial cell of uterus",
+        "endometrium",
+        "endometrium",
+        "RL95-2 cell",
+        "-"
+    ],
+    "EEC16": [
+        "-",
+        "-",
+        "epithelial cell",
+        "-",
+        "ovary",
+        "-",
+        "-",
+        "-"
+    ],
+    "GM12871_male_B-cells": [
+        "GM12871 cell",
+        "GM10724 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "psammoma body"
+    ],
+    "NCI-H1975": [
+        "NCI-H1975 cell",
+        "NCI-H740 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1975 cell",
+        "prostate gland epithelium"
+    ],
+    "RMS237": [
+        "-",
+        "-",
+        "striated muscle cell",
+        "-",
+        "striated muscle tissue",
+        "Peyer's patch",
+        "rhabdomyosarcoma cell",
+        "-"
+    ],
+    "PATU8988": [
+        "PA-TU-8988S cell",
+        "-",
+        "epithelial cell of pancreas",
+        null,
+        "pancreas",
+        "pancreas",
+        "Patu-8988 cell",
+        "-"
+    ],
+    "SUIT2_MTV": [
+        "SUIT-2 cell",
+        "-",
+        "epithelial cell of exocrine pancreas",
+        null,
+        "exocrine pancreas",
+        "zone of skin",
+        "SUIT-2 cell",
+        "middle temporal gyrus"
+    ],
+    "PANC1_3": [
+        "PANC-1 cell",
+        "BF93 cell",
+        "type B pancreatic cell",
+        "insulin secreting cell",
+        "pancreas",
+        "pancreas",
+        "PANC-1 cell",
+        "somatic cell"
+    ],
+    "A-549": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "CLB-GA": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "megakaryocyte progenitor cell",
+        "nervous system",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "Kasumi-1": [
+        "Kasumi-1 cell",
+        "KARPAS-299 cell",
+        "myeloid cell",
+        "T cell",
+        "blood",
+        "blood",
+        "Kasumi-1 cell",
+        null
+    ],
+    "H9_Derived_Neuronal_Progenitor_Cultured_Cells": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "double negative T regulatory cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "HUVEC-C_HUVEC_umbilical_vein_endothelial_cells_TNF_30M": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical cord",
+        "HUVEC cell",
+        "PEER cell"
+    ],
+    "IMEC": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast",
+        "ovary",
+        "IMEC cell",
+        "-"
+    ],
+    "H7-WT": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "-",
+        "embryo",
+        "WA-07 cell",
+        "-"
+    ],
+    "serous adenocarcinoma cell line:JHOS-2": [
+        "RCB1521 cell",
+        "-",
+        "ovarian fibroblast",
+        "-",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "FW18": [
+        "-",
+        "-",
+        "retinal cell",
+        "squamous epithelial cell",
+        "retina",
+        "lung",
+        "-",
+        "-"
+    ],
+    "glioma cell line:GI-1": [
+        "RCB0763 cell",
+        "RCB0797 cell",
+        "glial cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "MCF7_Invasive_ductal_breast_carcinoma_TAM": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "endometrial stromal sarcoma cell line:OMC-9": [
+        "RCB2832 cell",
+        "RERF-GC-1B cell",
+        "stromal cell of endometrium",
+        "squamous epithelial cell",
+        "endometrium",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "LPS141": [
+        "-",
+        "-",
+        "adipocyte",
+        "T cell",
+        "adipose tissue",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HepG2_shNS": [
+        "Hep G2 cell",
+        "Hep G2 cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "Hep-G2 cell",
+        "Hep-G2 cell"
+    ],
+    "15242A": [
+        "-",
+        "-",
+        "smooth muscle cell",
+        "kidney cell",
+        "uterus",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "HSQ-89": [
+        "RCB0789 cell",
+        "-",
+        "squamous epithelial cell",
+        "epithelial cell of stomach",
+        "nasal cavity",
+        "endometrium",
+        "-",
+        "-"
+    ],
+    "L1236_Hodgkin_lymphoma": [
+        "L-1236 cell",
+        "AMO-1 cell",
+        "lymphocyte",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "SaOS2_osteosarcoma": [
+        "Saos-2 cell",
+        null,
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "SAOS-2 cell",
+        "mandibular incisor"
+    ],
+    "SET2": [
+        "-",
+        "-",
+        "megakaryocyte progenitor cell",
+        "bone cell",
+        "bone marrow",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "NCI-H1048": [
+        "NCI-H1048 cell",
+        "VMRC-LCP cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1048 cell",
+        "-"
+    ],
+    "HuH-7": [
+        "RCB1366 cell",
+        "KP-4 cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "HuH-7 cell",
+        "T-84 cell"
+    ],
+    "WT 9-12_control_Nrf2_SFN": [
+        "-",
+        "-",
+        "kidney cell",
+        "epithelial cell of lung",
+        "kidney",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HAP1_WT": [
+        "-",
+        "COV644 cell",
+        "myeloid cell",
+        "CD8_alpha-low Langerhans cell",
+        "bone marrow",
+        "gray matter of spinal cord",
+        "-",
+        "NG2 cell"
+    ],
+    "acute lymphoblastic leukemia (T-ALL) cell line:HPB-ALL": [
+        "HPB-ALL cell",
+        "P-B91 cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "HPB-ALL cell",
+        "gastrointestinal cancer cell"
+    ],
+    "K562_MYO1D_Hub_KO": [
+        "K-562 cell",
+        "123-10 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "bone marrow",
+        "bone marrow",
+        "K-562 cell",
+        "K-562 cell"
+    ],
+    "BT245": [
+        "-",
+        "GM19145 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neural stem cell",
+        "nervous system",
+        "brain",
+        "BT-245 cell",
+        "-"
+    ],
+    "MCF7_TET2WT-E2": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "cytotoxic T-lymphocyte cell line"
+    ],
+    "A1A3": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "T-helper 9 cell",
+        "breast",
+        "stomach",
+        "-",
+        "-"
+    ],
+    "HUES48 cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "786-O_HIF2A": [
+        "786-O cell",
+        "AT95 cell",
+        "kidney cell",
+        "kidney cell",
+        "kidney",
+        "kidney",
+        "-",
+        "sclera"
+    ],
+    "HeLa-S3 cervical carcinoma": [
+        "HeLa S3 cell",
+        "HeLa S3 cell",
+        "epithelial cell of cervix",
+        "fibroblast of lymphatic vessel",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa-S3 cell",
+        "HeLa cell"
+    ],
+    "TEX-Luciferase-Rx_cells": [
+        "-",
+        "-",
+        "stem cell",
+        "cardiac endothelial cell",
+        "bone marrow",
+        "uterine cervix",
+        "TEX cell",
+        "-"
+    ],
+    "OCI-LY3_diffuse_large_B-cell_lymphoma": [
+        "-",
+        "-",
+        "B cell",
+        "B cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "P493-6_B-cell_lymphoma_SHTERT": [
+        "-",
+        "TIMI.4 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "P493-6 cell",
+        "-"
+    ],
+    "Mero-95": [
+        "-",
+        "-",
+        "mesothelial cell",
+        "squamous epithelial cell",
+        "lung",
+        "lung",
+        "-",
+        "A640-IS cell"
+    ],
+    "HCC-15": [
+        "HCC-15 cell",
+        "-",
+        "epithelial cell of lung",
+        "epithelial cell of stomach",
+        "lung",
+        "stomach",
+        "-",
+        "-"
+    ],
+    "ES-UCSF4 cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "MUTZ-3": [
+        "MUTZ-3 cell",
+        "QGP-1 cell",
+        "myeloid cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "teratocarcinoma cell line:PA-1": [
+        "PA-1 cell",
+        "MYC CT 14-G4.3 cell",
+        "female germ cell",
+        "epithelial cell of alveolus of lung",
+        "ovary",
+        "hilum of spleen",
+        "PA-1 cell",
+        "biceps"
+    ],
+    "iPS DF 19.11 cells": [
+        "human induced pluripotent stem cell line cell",
+        null,
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "neuroectodermal tumor cell line:TASK1": [
+        "TASK1 cell",
+        "RCB1290 cell",
+        "neural crest cell",
+        "neural cell",
+        "peripheral nervous system",
+        "kidney",
+        "-",
+        "brachial nerve"
+    ],
+    "FW15": [
+        "-",
+        "UCD/PR 10.11 cell",
+        "retinal cell",
+        "mammary gland epithelial cell",
+        "retina",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "SUP-B15_Childhood_B_acute_lymphoblastic_leukemia": [
+        "SUP-B15 cell",
+        "AG02506 cell",
+        "B-lymphoblast",
+        "prostate neuroendocrine cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "WA-09 cell"
+    ],
+    "OVCA429_shLuc": [
+        "-",
+        "P32/ISH cell",
+        "epithelial cell",
+        "epithelial cell",
+        "ovary",
+        "ovary",
+        "OVCA-429 cell",
+        null
+    ],
+    "Rec-1_GSI": [
+        "REC-1 cell",
+        "STC 1 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "REC-1 cell",
+        "mantle cell lymphoma cell"
+    ],
+    "CRC_7A": [
+        "-",
+        "-",
+        "colon epithelial cell",
+        "-",
+        "colon",
+        "colon",
+        "-",
+        "-"
+    ],
+    "SMS-KCN": [
+        "-",
+        "COLO-320-HSR cell",
+        "neuroblast (sensu Vertebrata)",
+        "-",
+        "nervous system",
+        "bile duct",
+        "SMS-KCN cell",
+        "-"
+    ],
+    "LCLGM10861": [
+        "GM10861 cell",
+        "-",
+        "B cell",
+        "leukocyte",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "KYSE180": [
+        "KYSE-180 cell",
+        "-",
+        "squamous epithelial cell",
+        "epithelial cell of stomach",
+        "esophagus",
+        "esophagus",
+        "-",
+        "HKESC-1 cell"
+    ],
+    "U87_FBS": [
+        "U-87 MG cell",
+        "U-87 MG cell",
+        "astrocyte",
+        "astrocyte",
+        "brain",
+        "brain",
+        "U-87MG cell",
+        "cancer-infiltrating inflammatory cell"
+    ],
+    "HCC1599": [
+        "HCC1599 cell",
+        "HGC-27 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "SU-DHL-2": [
+        "-",
+        "AG02496 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "SU-DHL-2 cell",
+        "-"
+    ],
+    "K562_native": [
+        "K-562 cell",
+        "K-562 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "bone marrow",
+        "bone marrow",
+        "K-562 cell",
+        "integument"
+    ],
+    "mdamb175vii": [
+        "MDA-MB-175-VII cell",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-175-VII cell",
+        "-"
+    ],
+    "SU-DHL-6_diffuse_large_B-cell_lymphoma": [
+        "SU-DHL-6 cell",
+        "NB5 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "iPS-18axian": [
+        "human induced pluripotent stem cell line cell",
+        "NFkB-bla ME-180",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "HCC1954": [
+        "HCC1954 cell",
+        "HBE4-E6/E7-C1 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "HCC-1954 cell",
+        "melanoblast"
+    ],
+    "SKNMC": [
+        "SK-N-MC cell",
+        "Sol8 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neural cell",
+        "brain",
+        "connective tissue",
+        "SK-N-MC cell",
+        "41-M cell"
+    ],
+    "WIL2-NS": [
+        "WIL2-NS cell",
+        "SU-DHL-10 cell",
+        "lymphocyte of B lineage",
+        "T cell",
+        "spleen",
+        "blood",
+        "-",
+        "-"
+    ],
+    "H7-hESC": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "SKH1_chronic_myelogenous_leukemia_BCR-ABL1_positive": [
+        "-",
+        "-",
+        "myeloid cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "H1 BMP4 Derived Mesendoderm Cultured Cells": [
+        "-",
+        "-",
+        "embryonic cell (metazoa)",
+        "myoblast",
+        "embryo",
+        "-",
+        "mesendoderm",
+        "-"
+    ],
+    "U2OS_osteosarcoma_HEAT_20": [
+        "U-2 OS cell",
+        "U-2 OS cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "BE2C_2": [
+        "-",
+        "T98G cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "SK-N-BE(2)C cell",
+        "superficial temporal vein"
+    ],
+    "WS3TF": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "HGRT": [
+        "RCB0966 cell",
+        "-",
+        "pluripotent stem cell",
+        "-",
+        "peritoneum",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "mesothelioma cell line:ACC-MESO-4": [
+        "RCB2293 cell",
+        "RCB0082 cell",
+        "meso-epithelial cell",
+        "squamous epithelial cell",
+        "pleura",
+        "lung",
+        "-",
+        "-"
+    ],
+    "Lu99B": [
+        "RCB1971 cell",
+        "RCB2082 cell",
+        "-",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "-",
+        "-"
+    ],
+    "HT1080_DOX5d": [
+        "HT-1080 cell",
+        "HT 1080 cell",
+        "epithelial cell",
+        "epithelial cell",
+        "connective tissue",
+        "connective tissue",
+        "HT-1080 cell",
+        "WEHI-231 cell"
+    ],
+    "MCF10A-YAP5SA_ctrl": [
+        "MCF 10A cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "glycogen accumulating cell",
+        "breast",
+        "breast",
+        "MCF-10A cell",
+        "T-47D cell"
+    ],
+    "KARPAS-422_DMSO_8d": [
+        "KARPAS-422 cell",
+        "SU-DHL-5 cell",
+        "B cell",
+        "macrophage",
+        "blood",
+        "bone marrow",
+        "KARPAS-422 cell",
+        "-"
+    ],
+    "G401_Dox": [
+        "G-401 cell",
+        "Hs 387.T cell",
+        "kidney epithelial cell",
+        "bladder cell",
+        "kidney",
+        "urinary bladder",
+        "G-401 cell",
+        "-"
+    ],
+    "SET-2_WT_DMSO": [
+        "-",
+        "XP11PV cell",
+        "megakaryocyte progenitor cell",
+        "myeloid cell",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "VACO_400": [
+        "-",
+        null,
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "V400 cell",
+        "-"
+    ],
+    "TT1TKB": [
+        "RCB1185 cell",
+        null,
+        "epithelial cell of large intestine",
+        "granulosa cell",
+        "rectum",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "SUIT2_TP63dN": [
+        "SUIT-2 cell",
+        "AMO-1 cell",
+        "epithelial cell of exocrine pancreas",
+        "bone marrow cell",
+        "exocrine pancreas",
+        "endocrine pancreas",
+        "SUIT-2 cell",
+        null
+    ],
+    "HO-1-u-1": [
+        "RCB2102 cell",
+        "-",
+        "squamous epithelial cell",
+        "colon epithelial cell",
+        "buccal salivary gland",
+        "bone marrow",
+        "HO-1-u-1 cell",
+        "-"
+    ],
+    "NCI-H69": [
+        "NCI-H69 cell",
+        "NCI-H841 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H69 cell",
+        "culture condition:taurine-grown cell"
+    ],
+    "AG04450": [
+        "-",
+        null,
+        "fibroblast of lung",
+        "neuroblast (sensu Vertebrata)",
+        "lung",
+        null,
+        "-",
+        "BSC-40 cell"
+    ],
+    "HL60": [
+        "HL-60 cell",
+        "HL-60 cell",
+        "myeloid cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "HL-60 cell",
+        "pancreatic PP cell"
+    ],
+    "AG10803": [
+        "AG10803 cell",
+        "-",
+        "skin fibroblast",
+        "-",
+        "abdominal cavity",
+        "brain",
+        "-",
+        "-"
+    ],
+    "xeroderma pigentosum b cell line:XPL 17": [
+        "RCB2286 cell",
+        null,
+        "lymphocyte",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "culture condition:corn steep liquor-grown cell"
+    ],
+    "hFOB_undifferentiated": [
+        "hFOB 1.19 cell",
+        null,
+        "osteoblast",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "hFOB 1.19 cell",
+        "mammary epithelial cell"
+    ],
+    "RWPE1 Schlap1 rep1": [
+        "RWPE-1 cell",
+        "A373-C6 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "RWPE-1 cell",
+        "claustrum"
+    ],
+    "WA01_H1_human_embryonic_stem_cells_MESEN_STEM": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "neural cell",
+        "embryo",
+        "embryo",
+        "WA-01 cell",
+        "-"
+    ],
+    "UACC62": [
+        "-",
+        "-",
+        "epidermal melanocyte",
+        "ciliated epithelial cell",
+        "skin epidermis",
+        "skin epidermis",
+        "UACC-62 cell",
+        "-"
+    ],
+    "TTC1240_SMARCB1_K364del": [
+        "-",
+        "T84 cell",
+        "kidney cell",
+        "colon epithelial cell",
+        "kidney",
+        "skin epidermis",
+        "-",
+        "-"
+    ],
+    "MCF7_CPI-455": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "teratocarcinoma cell line:NCC-IT-A3": [
+        "NCC-IT-A3 cell",
+        "Hs 257.T cell",
+        "male germ cell",
+        "neural cell",
+        "testis",
+        "kidney",
+        "-",
+        "buccal mass"
+    ],
+    "TE 354.T": [
+        "TE 354.T cell",
+        "-",
+        "basal cell of epidermis",
+        "lymphocyte",
+        "skin epidermis",
+        "spermathecum",
+        "-",
+        "-"
+    ],
+    "panc1": [
+        "PANC-1 cell",
+        "PR-1 cell",
+        "type B pancreatic cell",
+        "nodal myocyte",
+        "pancreas",
+        "pancreas",
+        "PANC-1 cell",
+        "aorta thoracica"
+    ],
+    "EP156T": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "colon epithelial cell",
+        "prostate gland",
+        "diaphragm",
+        "-",
+        "-"
+    ],
+    "HME1": [
+        "hTERT-HME1 cell",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "ME-1_acute_myeloid_leukemia_": [
+        "ME-1 cell",
+        "L929S cell",
+        "myeloid cell",
+        "lymphoblast",
+        "blood",
+        "bone marrow",
+        "-",
+        "F9-12 cell"
+    ],
+    "Tet21N_neuroblastoma": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "Tet21N cell",
+        "-"
+    ],
+    "SKNO-1": [
+        "-",
+        "-",
+        "myeloid cell",
+        "-",
+        "blood",
+        "bone tissue",
+        "-",
+        "-"
+    ],
+    "HUVEC-C_HUVEC_umbilical_vein_endothelial_cells_HYPOX": [
+        "HUV-EC-C cell",
+        "HUV-EC-C cell",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "endothelium of venule",
+        "HUVEC cell",
+        "mucous gland"
+    ],
+    "RMG-I": [
+        "RMG-I cell",
+        "-",
+        "-",
+        "bronchial epithelial cell",
+        "ovary",
+        "seminal vesicle",
+        "RMG-I cell",
+        "-"
+    ],
+    "RWPE1_prostate_epithelial_cells": [
+        "RWPE-1 cell",
+        "PVBC-OI234 cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "urinary bladder",
+        "RWPE-1 cell",
+        "RKO-AS-45-1 cell"
+    ],
+    "KYSE180_1": [
+        "KYSE-180 cell",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "esophagus",
+        "esophagus",
+        "-",
+        "-"
+    ],
+    "sacrococcigeal teratoma cell line:HTST": [
+        "RCB0967 cell",
+        "SUM52PE cell",
+        "germ cell",
+        "cultured cell",
+        "coccyx",
+        "musculature",
+        "-",
+        "-"
+    ],
+    "ID00016": [
+        "ID00016 cell",
+        "HMLE_sh_eGFP cell",
+        "lymphocyte",
+        "colon epithelial cell",
+        "blood",
+        "connective tissue",
+        "-",
+        "-"
+    ],
+    "81-3": [
+        "81.3 cell",
+        "-",
+        "lymphocyte",
+        "epithelial cell of alveolus of lung",
+        "blood",
+        "brain",
+        "-",
+        "-"
+    ],
+    "Detroit_562_Pharyngeal_squamous_cell_carcinoma": [
+        "Detroit 562 cell",
+        "D17 cell",
+        "epithelial cell of alimentary canal",
+        "epidermal melanocyte",
+        "pharynx",
+        "superior pubic ramus",
+        "-",
+        "bronchial smooth muscle cell"
+    ],
+    "MIA Paca2": [
+        "MIA PaCa-2 cell",
+        "-",
+        "pancreatic ductal cell",
+        "-",
+        "pancreas",
+        "pancreas",
+        "MiaPaCa-2 cell",
+        "psammomatous meningioma cell"
+    ],
+    "NCI-H889_p8-15": [
+        "NCI-H889 cell",
+        "-",
+        "epithelial cell of lung",
+        "T cell",
+        "lung",
+        "lung",
+        "NCI-H889 cell",
+        "-"
+    ],
+    "NB4_1": [
+        "NB-4 cell",
+        "PD 5 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "NB-4 cell",
+        "HuH-7 cell"
+    ],
+    "ZR751": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "ZR-75-1 cell",
+        "-"
+    ],
+    "CAOV4cis": [
+        "Caov-4 cell",
+        "TK-TS 13 cell",
+        "ovarian surface epithelial cell",
+        "epithelial cell",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "GM06990_female_B-cells": [
+        "GM06990 cell",
+        "ND10699 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "BJAB_Burkitt_lymphoma_BIRA": [
+        "-",
+        "NCI-H2342 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "BJAB cell",
+        "dorsal globus pallidus"
+    ],
+    "U87_EGFRvIII_shSOX9_FBS": [
+        "U-87 MG cell",
+        "UV24 cell",
+        "astrocyte",
+        "astrocyte",
+        "brain",
+        "central nervous system",
+        "U-87MG cell",
+        "TIG-1 cell"
+    ],
+    "acute myeloid leukemia (FAB M2) cell line:Kasumi-6": [
+        "Kasumi-6 cell",
+        "SUP-M2 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "-",
+        "U-251SP cell"
+    ],
+    "BE2C": [
+        "-",
+        "T98G cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "nervous system",
+        "SK-N-BE(2)C cell",
+        "1290-2 cell"
+    ],
+    "HuH7_hepatocellular_carcinoma_MITO": [
+        "RCB1366 cell",
+        "-",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "HuH-7 cell",
+        "rhomboid nucleus"
+    ],
+    "Mel Juso": [
+        "MEL-JUSO cell",
+        "-",
+        "epidermal melanocyte",
+        null,
+        "skin epidermis",
+        "skin epidermis",
+        "MEL-JUSO cell",
+        "-"
+    ],
+    "OCI-AML-3": [
+        "OCI-AML3 cell",
+        "-",
+        "myeloid cell",
+        "leucophore",
+        "blood",
+        "blood",
+        "OCI-AML3 cell",
+        "endothelioma cell"
+    ],
+    "pancreatic carcinoma cell line:NOR-P1": [
+        "RCB2139 cell",
+        "-",
+        "epithelial cell of pancreas",
+        "ciliated cell",
+        "pancreas",
+        "blood",
+        "NOR-P1 cell",
+        "-"
+    ],
+    "T_A": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "H9_neural_progenitor_cell": [
+        "-",
+        "-",
+        "neural progenitor cell",
+        "neural progenitor cell",
+        "nervous system",
+        "nervous system",
+        "-",
+        "-"
+    ],
+    "GM12878_female_B-cells_lymphoblastoid_cell_line": [
+        "GM12878 cell",
+        "GM12862 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "GM-12878 cell",
+        "TEX cell"
+    ],
+    "iPSC_induced_pluripotent_stem_cells": [
+        "human induced pluripotent stem cell line cell",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "hiPSC cell",
+        "caudolateral nidopallium"
+    ],
+    "HuH-6": [
+        "RCB1367 cell",
+        "RCB0735 cell",
+        "hepatocyte",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "HuH-6 cell",
+        "cardinal vein"
+    ],
+    "SJSA-1": [
+        "SJSA-1 cell",
+        "XP19PV cell",
+        "bone cell",
+        "pigment cell",
+        "bone tissue",
+        "connective tissue",
+        "SJSA-1 cell",
+        "Th-1 cell line"
+    ],
+    "ST1": [
+        "-",
+        "RCB2925 cell",
+        "T cell",
+        "stem cell",
+        "blood",
+        "lymph node",
+        "-",
+        "spinal muscle of neck"
+    ],
+    "MOLM13": [
+        "MOLM-13 cell",
+        "KY821A3 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-13 cell",
+        "NS-0 cell"
+    ],
+    "HEK293_siBAHD1_W667G_mutant": [
+        "HEK293",
+        "2A2-6E10-1D8 cell",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293 cell",
+        "MCF-10A cell"
+    ],
+    "MKL1_virus_positive": [
+        "-",
+        "MZ7-mel cell",
+        "Merkel cell",
+        "neuron of the ventral spinal cord",
+        "skin epidermis",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "fibrosarcoma cell line:HT-1080": [
+        "HT-1080 cell",
+        "IGF102/87 cell",
+        "epithelial cell",
+        "myoblast",
+        "connective tissue",
+        "connective tissue",
+        "HT-1080 cell",
+        "ovary adenocarcinoma cell line"
+    ],
+    "SK-N-BE2": [
+        "SK-N-BE(2) cell",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "-",
+        "nervous system",
+        "central nervous system",
+        "SK-N-BE(2) cell",
+        "plant epithelium"
+    ],
+    "HelaS3 ENCODE": [
+        "HeLa S3 cell",
+        "HeLa S3 cell",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa-S3 cell",
+        "HeLa-S3 cell"
+    ],
+    "WA09_embryonic_stem_cells": [
+        "-",
+        "Line H1 cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "WA-09 cell",
+        "bile ductule"
+    ],
+    "MO1043_ICN1_HA_H3K27Ac_a": [
+        "-",
+        "-",
+        "B cell",
+        "colon epithelial cell",
+        "blood",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "GIST-T1_JQ1": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "digestive tract",
+        "-",
+        "-"
+    ],
+    "HT29_colon_adenocarcinoma_ROSIG_2H": [
+        "HT-29 cell",
+        "HBE4-E6/E7-C1 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "HT-29 cell",
+        "coagulating gland"
+    ],
+    "H295R": [
+        "NCI-H295R cell",
+        "SUP-M2 cell",
+        "cortical cell of adrenal gland",
+        "brush cell of tracheobronchial tree",
+        "adrenal cortex",
+        "thoracic cavity vein",
+        "NCI-H295R cell",
+        "beta-TC3 cell"
+    ],
+    "OCI-Ly10": [
+        "-",
+        "SUP-M2 cell",
+        "B cell",
+        null,
+        "lymph node",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "TS576": [
+        "-",
+        "SU-DHL-5 cell",
+        "-",
+        "colon epithelial cell",
+        "brain",
+        "colon",
+        "-",
+        "-"
+    ],
+    "HCC-1428_breast_adenocarcinoma": [
+        "HCC1428 cell",
+        "BS/BEK cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "ES-2 cell"
+    ],
+    "MDA-MB-231_ER\u03b1WT_0min": [
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell"
+    ],
+    "MOLM14_CA25_11": [
+        "-",
+        "RERF-LC-Sq1 cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "MOLM-14 cell",
+        "long bone"
+    ],
+    "GM15850": [
+        "GM15850 cell",
+        "DA01163 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "TTC-1240_Rhabdoid_tumor_of_the_kidney": [
+        "-",
+        "-",
+        "kidney cell",
+        "-",
+        "kidney",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "U2OS_osteosarcoma_HEAT": [
+        "U-2 OS cell",
+        "U-2 OS cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "Ly4": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "NEC14": [
+        "RCB0490 cell",
+        "-",
+        "male germ cell",
+        "lymphoblast",
+        "testis",
+        "liver",
+        "-",
+        "-"
+    ],
+    "CyT49_HE": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "-",
+        "-",
+        "-"
+    ],
+    "PC3_COMBO": [
+        "PC-3 cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "PC-3 cell",
+        "sweat gland"
+    ],
+    "MDA-MB-231_ER?WT_45min": [
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-231 cell",
+        "MDA-MB-231 cell"
+    ],
+    "SNU-216": [
+        "-",
+        "TK-TS 13 cell",
+        "epithelial cell of stomach",
+        "epithelial cell of stomach",
+        "stomach",
+        "stomach",
+        "SNU-216 cell",
+        "-"
+    ],
+    "T_C": [
+        "-",
+        "-",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "T-lymphocyte"
+    ],
+    "G401": [
+        "G-401 cell",
+        "RLSD06 cell",
+        "kidney epithelial cell",
+        "muscle fibroblast",
+        "kidney",
+        "lymph node",
+        "G-401 cell",
+        "NCI-H1688 cell"
+    ],
+    "OCI-LY3": [
+        "-",
+        "MCF-7 aro ERE",
+        "B cell",
+        "B cell",
+        "bone marrow",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HEL92.1.7": [
+        "HEL 92.1.7 cell",
+        "HCN-2 cell",
+        "myeloid cell",
+        "lymphocyte of B lineage",
+        "blood",
+        "blood",
+        "HEL-92.1.7 cell",
+        "hip joint"
+    ],
+    "ES-WA7 cells": [
+        "-",
+        "-",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "MKN1": [
+        "RCB1003 cell",
+        "-",
+        "glandular epithelial cell of stomach",
+        "epithelial cell of stomach",
+        "stomach",
+        "stomach",
+        "MKN-1 cell",
+        "-"
+    ],
+    "LoVo_colorectal_adenocarcinoma_PHASES": [
+        "LoVo cell",
+        "Loucy cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colon",
+        "LoVo cell",
+        "KB cell"
+    ],
+    "ra1": [
+        "RAMOS cell",
+        "-",
+        "B cell",
+        "CD8_alpha-low Langerhans cell",
+        "blood",
+        "mouth",
+        "RAMOS (RA.1) cell",
+        "-"
+    ],
+    "HEK-293": [
+        "HEK293",
+        "2A2-6E10-1D8 cell",
+        "kidney epithelial cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "HEK-293 cell",
+        "Sertoli cell"
+    ],
+    "OCI-LY1": [
+        "-",
+        "-",
+        "B cell",
+        "lymphocyte of B lineage",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "GIST-9_PDGFRA e18": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "digestive tract",
+        "-",
+        "-"
+    ],
+    "MCF7_Invasive_ductal_breast_carcinoma_SIGATA": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "DAOY_medulloblastoma": [
+        "Daoy cell",
+        "U937(CD59+) cell",
+        "neural cell",
+        "neural cell",
+        "cerebellum",
+        "substantia nigra",
+        "DAOY cell",
+        "mushroom body"
+    ],
+    "G523NS_glioblastoma": [
+        "-",
+        "-",
+        "glial cell",
+        "glial cell",
+        "central nervous system",
+        "brain",
+        "-",
+        "-"
+    ],
+    "SCC25": [
+        "SCC-25 cell",
+        "CYNOM-K1 cell",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "tongue",
+        "tongue",
+        "SCC-25 cell",
+        "needle"
+    ],
+    "ATN-1": [
+        "RCB1440 cell",
+        "-",
+        "T cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "RWPE2": [
+        "RWPE-2 cell",
+        "RCB1513 cell",
+        "epithelial cell of prostate",
+        "parathyroid glandular cell",
+        "prostate gland",
+        "prostate gland",
+        "RWPE-2 cell",
+        "ALL-SIL cell"
+    ],
+    "SupB15 ACY1035": [
+        "SUP-B15 cell",
+        "primary cultured cell of skeletal muscle",
+        "B-lymphoblast",
+        "lymphocyte",
+        "bone marrow",
+        "blood",
+        "-",
+        "PC-10 cell"
+    ],
+    "BICR-31": [
+        "BICR 31 cell",
+        "-",
+        "squamous epithelial cell",
+        null,
+        "tongue",
+        "glomerular capillary endothelium",
+        "-",
+        "-"
+    ],
+    "IMR90_lung_fibroblasts_SENES_SHLUC": [
+        "IMR-90 cell",
+        "IMR-90 cell",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "sapling"
+    ],
+    "acute myeloid leukemia (FAB M4) cell line:HNT-34": [
+        "RCB1296 cell",
+        "-",
+        "myeloid cell",
+        "leucophore",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "clear cell carcinoma cell line:JHOC-5": [
+        "RCB1520 cell",
+        "KARPAS-620 cell",
+        "ovarian surface epithelial cell",
+        "apocrine cell",
+        "ovary",
+        "ovary",
+        "-",
+        "-"
+    ],
+    "HT3": [
+        "HT-3 cell",
+        "-",
+        "epithelial cell of cervix",
+        "stem cell",
+        "uterine cervix",
+        "embryo",
+        "-",
+        "-"
+    ],
+    "DND_41": [
+        "DND-41 cell",
+        "TFTB1 cell",
+        "T cell",
+        "epithelial cell of pancreas",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "DHL-4": [
+        "SU-DHL-4 cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "SU-DHL-4 cell",
+        "-"
+    ],
+    "cord blood derived cell line:COBL-a 24h infection": [
+        "-",
+        "GM11447 cell",
+        "hematopoietic cell",
+        "-",
+        "umbilical cord",
+        "umbilical cord",
+        "-",
+        "HEK-293B2 cell"
+    ],
+    "HT1080_WT": [
+        "HT-1080 cell",
+        "HSFPD cell",
+        "epithelial cell",
+        "myoblast",
+        "connective tissue",
+        "connective tissue",
+        "HT-1080 cell",
+        "glial cell line"
+    ],
+    "Mac-2A_ALK-": [
+        "-",
+        "RCB1942 cell",
+        "lymphocyte",
+        "monocyte",
+        "blood",
+        "bone marrow",
+        "-",
+        "-"
+    ],
+    "GBM_B39": [
+        "-",
+        "-",
+        "neural cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "T47D_invasive_ductal_carcinoma_PROG": [
+        "T-47D cell",
+        "T-47D cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "T-47D cell",
+        "T-47D cell"
+    ],
+    "MCF7_Invasive_ductal_breast_carcinoma_SHCTR_E2": [
+        "MCF7 cell",
+        "MCF7 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MCF-7 cell",
+        "MCF-7 cell"
+    ],
+    "U2OS_osteosarcoma_SHNS": [
+        "U-2 OS cell",
+        "U-2 OS cell",
+        "bone cell",
+        "bone cell",
+        "bone tissue",
+        "bone tissue",
+        "U2-OS cell",
+        "U2-OS cell"
+    ],
+    "PC_9": [
+        "-",
+        "Cor Per cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "PC-9 cell",
+        "HIPEC-65 cell"
+    ],
+    "HK-2": [
+        "HK-2 cell",
+        "-",
+        "epithelial cell of proximal tubule",
+        "interrenal epinephrin secreting cell",
+        "proximal tubule",
+        "kidney",
+        "HK-2 cell",
+        "-"
+    ],
+    "I10_Mantle cell lymphoma tissue_THZ1": [
+        "-",
+        "-",
+        "B cell",
+        "neural cell",
+        "blood",
+        "bone marrow",
+        "-",
+        "tassel"
+    ],
+    "SH-EP": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "nervous system",
+        "SH-EP cell",
+        "chondroma cell"
+    ],
+    "osteosarcoma cell line:143B/TK^(-)neo^(R)": [
+        "143B cell",
+        "FG186 cell",
+        "bone cell",
+        "bone cell",
+        "femur",
+        "bone tissue",
+        "-",
+        "internal male genital organ"
+    ],
+    "PC9": [
+        "-",
+        "GM14691 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "PC-9 cell",
+        "corn ear"
+    ],
+    "acute myeloid leukemia (FAB M4eo) cell line:EoL-1": [
+        "EOL-1 cell",
+        "KP-N-YN cell",
+        "myeloid cell",
+        "myeloid cell",
+        "blood",
+        "blood",
+        "EoL-1 cell",
+        "-"
+    ],
+    "BT16": [
+        "-",
+        "-",
+        "mesenchymal cell",
+        "epithelial cell",
+        "central nervous system",
+        "kidney",
+        "-",
+        "-"
+    ],
+    "liposarcoma cell line:KMLS-1": [
+        "-",
+        "RCB2141 cell",
+        "adipocyte",
+        "adipocyte",
+        "adipose tissue",
+        "trochlea of humerus",
+        "-",
+        "-"
+    ],
+    "GBM_IDHmut5661": [
+        "-",
+        "-",
+        "neural cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "-",
+        "-"
+    ],
+    "BPE_mammary_epithelial_cells": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "-",
+        "-"
+    ],
+    "HMS001": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "fibroblast",
+        "oropharynx",
+        "musculoskeletal system",
+        "-",
+        "-"
+    ],
+    "be2c": [
+        "-",
+        "NM94 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "brain",
+        "brain",
+        "SK-N-BE(2)C cell",
+        "-"
+    ],
+    "Blue1_sporadic_Burkitt_lymphoma": [
+        "-",
+        "TAC-1 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "HEK-293T/17 cell"
+    ],
+    "H9_naive": [
+        "H9 cell",
+        "H4S cell",
+        "T cell",
+        "T cell",
+        "blood",
+        "blood",
+        "H-9 cell",
+        "HRT-18 cell"
+    ],
+    "SH-SY5Y_untreat": [
+        "SH-SY5Y cell",
+        "S-G87 cell",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "bone marrow",
+        "bone marrow",
+        "SH-SY5Y cell",
+        "radular muscle"
+    ],
+    "A549_3h_only": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "H1_hESC_2": [
+        "Line H1 cell",
+        "SNU-1040 cell",
+        "embryonic stem cell",
+        "embryonic stem cell",
+        "embryo",
+        "embryo",
+        "hESC cell",
+        "hESC cell"
+    ],
+    "NEC8": [
+        "RCB0489 cell",
+        "-",
+        "male germ cell",
+        "colon epithelial cell",
+        "testis",
+        "colon",
+        "NEC-8 cell",
+        "insect protocorm"
+    ],
+    "EndoC-betaH2": [
+        "-",
+        "-",
+        "type B pancreatic cell",
+        "Kit-positive granulocyte monocyte progenitor",
+        "pancreas",
+        "pancreas",
+        "-",
+        "-"
+    ],
+    "BT168_glioblastoma_stem_cells": [
+        "-",
+        "-",
+        "stem cell",
+        "neural stem cell",
+        "central nervous system",
+        "brain",
+        "-",
+        "-"
+    ],
+    "CLB-MA": [
+        "-",
+        "-",
+        "neuroblast (sensu Vertebrata)",
+        "neuroblast (sensu Vertebrata)",
+        "nervous system",
+        "simple organ",
+        "-",
+        "-"
+    ],
+    "gastrointestinal carcinoma cell line:ECC12": [
+        "RCB1009 cell",
+        "RCB0428 cell",
+        "epithelial cell of stomach",
+        "intestinal epithelial cell",
+        "stomach",
+        "breast",
+        "-",
+        "745A cell"
+    ],
+    "SW872_YAP5SA": [
+        "SW 872 cell",
+        "T4 Clone 5   (10-0101, 0062-83) cell",
+        "adipocyte",
+        "adipocyte",
+        "connective tissue",
+        "connective tissue",
+        "SW-872 cell",
+        "extrastaminal nectary"
+    ],
+    "MKL-1": [
+        "-",
+        "Panc 10.05 cell",
+        "Merkel cell",
+        "mammary gland epithelial cell",
+        "skin epidermis",
+        "stomach",
+        "-",
+        "long bone"
+    ],
+    "GM04604": [
+        "GM04604 cell",
+        "DA03737 cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "-",
+        "-"
+    ],
+    "HeLa-S3 Cervical Carcinoma Cell Line": [
+        "HeLa S3 cell",
+        "MCF 10A-derived cell",
+        "epithelial cell of cervix",
+        "epithelial cell of cervix",
+        "uterine cervix",
+        "cortex of lymph node",
+        "HeLa-S3 cell",
+        "HeLa cell"
+    ],
+    "AzH-G2/M": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "embryo",
+        "-",
+        "-",
+        "-"
+    ],
+    "MDA-MB-157": [
+        "MDA-MB-157 cell",
+        "MDA-MB-468 cell",
+        "mammary gland epithelial cell",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "MDA-MB-157 cell",
+        "non-Hodgkin lymphoma cell line"
+    ],
+    "LNCaP95_shARfl_DHT": [
+        "-",
+        "-",
+        "epithelial cell of prostate",
+        "epithelial cell of prostate",
+        "prostate gland",
+        "prostate gland",
+        "LNCaP-95 cell",
+        "PCI-51 cell"
+    ],
+    "SHEP with tetracycline inducible MYC_DOX_6HR": [
+        "-",
+        "RT4 cell",
+        "neuroblast (sensu Vertebrata)",
+        "obsolete primary pigment cell",
+        "nervous system",
+        "stomach",
+        "SH-EP cell",
+        "foam cell"
+    ],
+    "WHIM12": [
+        "-",
+        "-",
+        "mammary gland epithelial cell",
+        "-",
+        "breast",
+        "-",
+        "-",
+        "-"
+    ],
+    "RH3": [
+        "-",
+        "-",
+        "bronchial smooth muscle cell",
+        "mesothelial cell",
+        "alveolar smooth muscle",
+        "nervous system",
+        "Rh-3 cell",
+        "-"
+    ],
+    "GIST-3_KIT e11": [
+        "-",
+        "-",
+        "neural cell",
+        "neural cell",
+        "digestive tract",
+        "digestive tract",
+        "-",
+        "-"
+    ],
+    "MonoMac6": [
+        "MONO-MAC-6 cell",
+        "HA1E cell",
+        "monocyte",
+        "monocyte",
+        "blood",
+        "blood",
+        "Mono-Mac-6 cell",
+        "syncytium"
+    ],
+    "hTERT-HME1": [
+        "hTERT-HME1 cell",
+        "PL4 cell",
+        "mammary gland epithelial cell",
+        "squamous epithelial cell",
+        "breast",
+        "body of rib",
+        "-",
+        "-"
+    ],
+    "JHU-029_laryngeal_squamous_cell_carcinoma": [
+        "-",
+        "-",
+        "squamous epithelial cell",
+        "squamous epithelial cell",
+        "larynx",
+        "esophagus",
+        "JHU-029 cell",
+        "-"
+    ],
+    "iPS_DF_19_11": [
+        "human induced pluripotent stem cell line cell",
+        "-",
+        "pluripotent stem cell",
+        "pluripotent stem cell",
+        "-",
+        "-",
+        "-",
+        "-"
+    ],
+    "RL": [
+        "RL cell",
+        "-",
+        "B cell",
+        "B cell",
+        "blood",
+        "blood",
+        "RL cell",
+        "cormel"
+    ],
+    "NCI-H1299-wtSMARCA4_Dox_SAHA": [
+        "NCI-H1299 cell",
+        "NCI-H1184 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung",
+        "NCI-H1299 cell",
+        "thorax"
+    ],
+    "GBM_4218_0": [
+        "-",
+        "-",
+        "glial cell",
+        "glial cell",
+        "brain",
+        "brain",
+        "glioblastoma cell line",
+        "-"
+    ],
+    "carcinoid cell line:SK-PN-DW": [
+        "SK-PN-DW cell",
+        "SW872 cell",
+        "neural cell",
+        "epithelial cell of small intestine",
+        "nervous system",
+        null,
+        "-",
+        "-"
+    ],
+    "Wilms' tumor cell line:HFWT": [
+        "RCB0665 cell",
+        "RCB0210 cell",
+        "kidney epithelial cell",
+        "monopoietic cell",
+        "kidney",
+        "kidney",
+        "-",
+        "oviduct epithelial cell line"
+    ],
+    "RS4_11_AZD1775 _4h": [
+        "RS4;11 cell",
+        "MLH1 cell",
+        "lymphocyte of B lineage",
+        "B cell",
+        "bone marrow",
+        "blood",
+        "RS4-11 cell",
+        "-"
+    ],
+    "Hu5": [
+        "-",
+        "-",
+        "mesenchymal cell",
+        "-",
+        "mesenchyme",
+        "prostate gland",
+        "-",
+        "rhizodermis"
+    ],
+    "TC797": [
+        "-",
+        null,
+        "-",
+        "lymphocyte",
+        "-",
+        "blood",
+        "-",
+        "-"
+    ]
+}
