@@ -18,14 +18,14 @@ Scripts use one or more of the following libraries:
 
 
 ## Dependencies
-- **dotenv**: Read key-value pairs from a .env file and set them as environment variables
-- **openai**: The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.7+ application
+- **dotenv**: Read key-value pairs from a .env file and set them as environment variables.
+- **openai**: The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.7+ application-
 - **sklearn.model_selection**: Tools for model selection, such as cross-validation and hyper-parameter tuning.
-- **json**: Work with JSON data
-- **pandas**: Analysis and manipulation tool
-- **os**: Provides a portable way of using operating system-dependent functionality
+- **json**: Work with JSON data.
+- **pandas**: Analysis and manipulation tool.
+- **os**: Provides a portable way of using operating system-dependent functionality.
 - **matplotlib.pyplot**: Low level graph plotting library in python that serves as a visualization utility.
-- **requests**: Allows you to send HTTP requests using Python
+- **requests**: Allows you to send HTTP requests using Python.
 
 All dependencies are included in the **requirements.txt** file.
 
