@@ -1,0 +1,15 @@
+As an expert ontology mapper, I need your help in searching for suitable identifiers in the ontologies with the acronyms CLO, CL, UBERON, and BTO, from a provided label.
+The label will be related to biological samples like cell lines, cell types and anatomy structures. 
+I need the identifier to be as closely related to the label as possible. 
+The input details for your task are as follows:
+
+**Label:**
+{label}
+
+Structure your output in the following format:
+
+[CLO_0000000, CL_0000000, UBERON_0000000, BTO_0000000]
+
+Generate appropriate identifiers.
+Do not explain your answer, just write the identifiers.
+Do not write notes at the end of your writing.
