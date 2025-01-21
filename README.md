@@ -1,4 +1,4 @@
-# LLM4BioMapping
+# LLM4Annotating
 ## Application of Large Language Models to automate the processes of semantic integration of biological data
 Code used in the method and results obtained for the implementation of LLMs in semantics integration of biological data, specifically, OpenAI's GPT-3.5-turbo and GPT-4-turbo and GPT-4o models are used. In addition, two fine-tuned models were developed by performing a fine-tuning process on the GPT-3.5-turbo and GPT-4o-mini models. 
 
@@ -14,6 +14,7 @@ Scripts use one or more of the following libraries:
 - **class_names.py**: Split data by label type and get the name of each identifier to analyze how the tuned model works.
 - **pattern_analysis.py**: Look for a common pattern between the identifier class names and check if there is a valid relationship between them.
 - **llm_contributions.py**: Filter out those cases where there is no reference identifier for a given tag but the model can propose a valid identifier.
+- **calculate_FN**: Obtain the number of FN for each ontology.
 - **match_analysis.py**: Obtain tuned model accuracy, recall and F1-score for each of the ontologies by label type.
 
 
