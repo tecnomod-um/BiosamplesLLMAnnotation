@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt  # data visualization
 
 from class_names import df_dash
 
-
 def data_process(filename):
     """
     Load data from a JSON file and convert it to a structured DataFrame.
@@ -90,15 +89,15 @@ def calculate_metrics(type):
     if type == 'CL':
         df = data_process('contribution_file_CL.json')
         suffixes = ['CLO', 'CL', 'UBERON', 'BTO']
-        false_neg_data = {'CLO': 4, 'CL': 1, 'UBERON': 0, 'BTO': 7}
+        false_neg_data = {'CLO': 110, 'CL': 52, 'UBERON': 26, 'BTO': 121}
     elif type == 'CT':
         df = data_process('contribution_file_CT.json')
         suffixes = ['CL', 'UBERON', 'BTO']
-        false_neg_data = {'CLO': 0, 'CL': 1, 'UBERON': 1, 'BTO': 6}
+        false_neg_data = {'CLO': 0, 'CL': 15, 'UBERON': 11, 'BTO': 63}
     elif type == 'A':
         df = data_process('contribution_file_A.json')
         suffixes = ['UBERON', 'BTO']
-        false_neg_data = {'CLO': 0, 'CL': 0, 'UBERON': 0, 'BTO': 1}
+        false_neg_data = {'CLO': 0, 'CL': 0, 'UBERON': 1, 'BTO': 18}
     elif type == 'dash':
         df = df_dash
         suffixes = ['CLO', 'CL', 'UBERON', 'BTO']
@@ -130,6 +129,7 @@ def calculate_metrics(type):
                 f1[suffix] = f1_values
             accuracy = true_pos / (true_pos + false_pos)
             accuracies[suffix] = accuracy
+            print(type,suffix,false_pos,true_pos)
         else:
             if type != 'dash':
                 exhaust[suffix] = None
@@ -176,9 +176,9 @@ def plot_combined_metrics():
     df_exhaust = pd.DataFrame({key: metrics_data['exhaustiveness'][key] for key in types_exhaust_f1}).T
     ax = df_exhaust.plot(kind='bar', figsize=(10, 6), rot=0, width=0.8)
     ax.set_ylim(0, 1.2)
-    ax.set_title('Exhaustiveness by Type')
+    ax.set_title('Recall by Type')
     ax.set_xlabel('Types')
-    ax.set_ylabel('Exhaustiveness')
+    ax.set_ylabel('Recall')
     plt.legend(title='Ontologies', loc='upper left',
                bbox_to_anchor=(1, 1))  # Move legend outside the plot to avoid overlap
     plt.xticks(ticks=range(len(df_exhaust.index)), labels=df_exhaust.index, ha='center', rotation=0, fontsize=10)

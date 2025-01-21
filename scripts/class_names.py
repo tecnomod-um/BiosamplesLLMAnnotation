@@ -3,6 +3,14 @@ import json #use json data
 
 from df_comparation import df_comparation_ft_4o
 
+def load_environment():
+    """
+    Load environment variables.
+    :return: The OPENAI API key.
+    """
+    config = dotenv_values(dotenv_path="../.env")
+    return config.get('BIOPORTAL_API_KEY')
+
 def group_and_return_dfs(df):
     """
     Group the dataframe by the 'Type' column and create a dictionary with a dataframe for each group.
@@ -30,7 +38,7 @@ def get_class_name(ontology_acronym,class_id):
          str: The name of the class if found, or None if the request fails.
      """
     url = f'http://data.bioontology.org/ontologies/{ontology_acronym}/classes/{class_id}'
-    api_key = "3a884577-7cac-4830-b241-61cbe4ebf5d4"
+    api_key = load_environment()
     headers = {
         'Authorization': f'apikey token={api_key}',
         'Accept': 'application/json'

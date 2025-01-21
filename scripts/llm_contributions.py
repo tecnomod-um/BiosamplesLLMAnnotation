@@ -3,7 +3,8 @@ import pandas as pd #dataframe manipulation
 
 from pattern_analysis import df_to_dicc 
 
-count=0 #get the count of related identifiers
+count_valid_identifiers=0 #get the count of related identifiers
+count_invalid_identifiers=0
 
 def data_process(filename):
     """
@@ -43,7 +44,7 @@ def contribution(type):
         type (str): The ontology type ('CL', 'CT', or 'A') to specify which data to process.
 
     """
-    global count 
+    global count_valid_identifiers,count_invalid_identifiers
 
     if type == 'CL':
         df = data_process('pattern_file_CL.json')
@@ -68,7 +69,9 @@ def contribution(type):
                 check = input('Is the contribution valid? Y/N \n')
                 if check == 'Y':
                     df.at[index, true_col] = pred
-                    count=count+1
+                    count_valid_identifiers=count_valid_identifiers+1
+                else:
+                    count_invalid_identifiers=count_invalid_identifiers+1
     dicc = df_to_dicc(df)
     file_name = f'contribution_file_{type}.json'
     with open(file_name, 'w') as archive_json:
@@ -76,10 +79,12 @@ def contribution(type):
     return 
 
 def main():
-    contribution('A')
-    contribution('CT')
+    #contribution('A')
+    #contribution('CT')
     contribution('CL')
-    print("Number of valid contributions:", count)
+    print("Number of valid contributions:", count_valid_identifiers)
+    print("\n")
+    print("Number of invalid contribution:",count_invalid_identifiers)
 
 if __name__ == "__main__":
     main()
