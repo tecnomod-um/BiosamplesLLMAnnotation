@@ -121,7 +121,6 @@ def calculate_metrics(type):
                     true_pos += 1
                 else:
                     false_pos += 1
-            true_pos = true_pos - false_neg
             if type != 'dash':
                 exhaust_values = true_pos / (true_pos + false_neg)
                 f1_values = 2 * true_pos / (2 * true_pos + false_neg + false_pos)
