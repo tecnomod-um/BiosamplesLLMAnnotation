@@ -9,8 +9,8 @@ Scripts use one or more of the following libraries:
 - **ft_metrics_plot.py**: Once the metrics are obtained, they are plotted for analysis.
 - **get_response_modelsOpenAI.py**: Obtain the response of the models of OpenAI for a given task. In this case, the model is asked to display suitable identifiers for each of the ontologies under study for each label of interest.
 - **get_response_ft.py**: The same as in the previous script, but using the previously built fine-tuned models.
-- **df_comparation.py**: Data manipulation and organization in order to compare the mappings proposed by the model and the reference mappings.
-- **models_comparation.py**: Obtain the precision of each one of the models for each of the ontologies under study.
+- **df_comparison.py**: Data manipulation and organization in order to compare the mappings proposed by the model and the reference mappings.
+- **models_comparison.py**: Obtain the precision of each one of the models for each of the ontologies under study.
 - **class_names.py**: Split data by label type and get the name of each identifier to analyze how the tuned model works.
 - **pattern_analysis.py**: Look for a common pattern between the identifier class names and check if there is a valid relationship between them.
 - **llm_contributions.py**: Filter out those cases where there is no reference identifier for a given tag but the model can propose a valid identifier.
