@@ -1,7 +1,8 @@
+from operator import index
 import pandas as pd #dataframe manipulation
 import matplotlib.pyplot as plt #data visualization
 
-from df_comparation import df_comparation_gpt3_5, df_comparation_gpt4, df_comparation_gpt4o, df_comparation_ft, df_comparation_ft_4o
+from df_comparison import df_comparison_gpt35, df_comparison_gpt4, df_comparison_gpt4o, df_comparison_ft_gpt35, df_comparison_ft_gpt4o,df_comparison_ft_gpt4o_mini,df_comparison_ft_gpt4o_mini_descriptions
 
 def get_accuracy(df):
     """
@@ -27,11 +28,19 @@ def get_accuracy(df):
         false_pos = 0
         if true_col in df.columns and pred_col in df.columns:
             for i in range(len(df)):
-                if df.iloc[i][true_col] == df.iloc[i][pred_col]:
+                true_val = df.iloc[i][true_col]
+                pred_val = df.iloc[i][pred_col]
+                if true_val == "-" and pred_val == "-":
+                    continue
+                if true_val == pred_val:
                     true_pos += 1
-                else : 
-                    false_pos +=1
-            accuracy= true_pos/(true_pos+false_pos)
+                else:
+                    false_pos += 1
+            # Evitar división por cero
+            if (true_pos + false_pos) > 0:
+                accuracy = true_pos / (true_pos + false_pos)
+            else:
+                accuracy = None
             accuracies[suffix] = accuracy
         else:
             accuracies[suffix] = None
@@ -84,9 +93,12 @@ def plot_accuracies(models_data, model_names):
     plt.show()
 
 def main():
-    models_data = [df_comparation_gpt3_5, df_comparation_gpt4, df_comparation_gpt4o, df_comparation_ft,  df_comparation_ft_4o]
-    model_names = ['Model GPT-3.5', 'Model GPT-4', 'Model GPT-4o', 'Ft GPT-3.5 Model ', 'Ft GPT-4o-mini Model']
-    plot_accuracies(models_data, model_names)
+    # models_data = [df_comparison_gpt35, df_comparison_gpt4, df_comparison_gpt4o, df_comparison_ft_gpt35, df_comparison_ft_gpt4o,df_comparison_ft_gpt4o_mini]
+    # model_names = ['GPT-3.5', 'GPT-4', 'GPT-4o', 'Ft GPT-3.5', 'Ft GPT-4o','Ft GPT-4o-mini']
+    #models_data = [df_comparison_ft_gpt4o_mini,df_comparison_ft_gpt4o_mini_descriptions]
+    #model_names = ['Ft GPT-4o-mini','Ft GPT-4o-mini + Descriptions']
+    df_comparison_gpt4o.to_csv("./results/df_4o.csv",index=0)
+    #plot_accuracies(models_data, model_names)
 
 if __name__ == "__main__":
     main()

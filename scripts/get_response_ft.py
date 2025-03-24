@@ -1,6 +1,7 @@
 from openai import OpenAI #ChatGPT API
 from dotenv import dotenv_values #environment control
 import json #use json data
+import time
 
 from creation_ft import mappings_test #get test data from previous script
 
@@ -11,13 +12,13 @@ def load_environment(var):
     Parameters:
         var (str): Variable to be exported.
     """
-    config = dotenv_values(dotenv_path=".env")
+    config = dotenv_values(dotenv_path="../.env")
     if var == 'key':
         return config['OPENAI_API_KEY']
     if var == 'ft_model_4o':
         return config['FT_MODEL_4o']
-    if var == 'ft_model_35':
-        return config['FT_MODEL_35']
+    if var == 'ft_model_4o_mini':
+        return config['FT_MODEL_4o_mini']
 
 
 def get_openai_response(df,model):
@@ -54,14 +55,15 @@ def save_results(results,name):
         results (dict): Dictionary containing the label and its correspondings identifiers for each of the ontologies of interest.
         name (str): Name for the new JSON file.
     """
-    with open(name, 'w') as archivo_json:
-        json.dump(results, archivo_json, indent=4)
+    with open(name, 'w') as json_file:
+        json.dump(results, json_file, indent=4)
 
 def main():
-    results_4o = get_openai_response(mappings_test,model=load_environment('ft_model_4o'))
-    results_35 = get_openai_response(mappings_test, model=load_environment('ft_model_35'))
-    save_results(results_4o,'results_ft_4o.json')
-    save_results(results_35, 'results_ft_35.json')
+    results_4o = get_openai_response(mappings_test,model=load_environment('ft_model_4o_mini'))
+    save_results(results_4o,'results_ft_4o_mini.json')
 
 if __name__ == "__main__":
-    main()
+    start_time = time.time()  # Start the timer
+    main()  # Execute the main function
+    end_time = time.time()  # Stop the timer
+    print(f"Execution time: {end_time - start_time} seconds")

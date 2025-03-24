@@ -39,21 +39,21 @@ def match_calculation(type):
 
     """
     if type == 'CL':
-        df = data_process('contribution_file_CL.json')
+        df = data_process('./results/contribution_file_CL.json')
         col_1 = 'CLO'
         col_2 = 'BTO'
     elif type == 'CT':
-        df = data_process('contribution_file_CT.json')
+        df = data_process('./results/contribution_file_CT.json')
         col_1 = 'CL'
         col_2 = 'BTO'
     elif type == 'A':
-        df = data_process('contribution_file_A.json')
+        df = data_process('./results/contribution_file_A.json')
         col_1 = 'UBERON'
         col_2 = 'BTO'
     elif type == 'dash':
         return 0  # Set perfect match to 0 for 'dash'
     else:
-        raise ValueError("Tipo no reconocido")
+        raise ValueError("Unrecognized ontology type")
 
     perfect_match = 0
     no_perfect_match = 0
@@ -78,63 +78,86 @@ def match_calculation(type):
     return index_pm
 
 
-def calculate_metrics(type):
+def calculate_metrics(ontology_type):
     """
-    Calculate precision, exhaustiveness, and F1-score for each ontology type.
+    Calculate precision, recall (exhaustiveness), and F1-score for each ontology type.
 
     Parameters:
-        type (str): The ontology type ('CL', 'CT', 'A', or 'dash').
+        ontology_type (str): The ontology type ('CL', 'CT', 'A', or 'dash').
 
+    Returns:
+        tuple: Three dictionaries containing the accuracy (precision), recall (exhaustiveness),
+               and F1-score for each ontology.
     """
-    if type == 'CL':
-        df = data_process('contribution_file_CL.json')
+    if ontology_type == 'CL':
+        df = data_process('./results/contribution_file_CL.json')
         suffixes = ['CLO', 'CL', 'UBERON', 'BTO']
-        false_neg_data = {'CLO': 110, 'CL': 52, 'UBERON': 26, 'BTO': 121}
-    elif type == 'CT':
-        df = data_process('contribution_file_CT.json')
+    elif ontology_type == 'CT':
+        df = data_process('./results/contribution_file_CT.json')
         suffixes = ['CL', 'UBERON', 'BTO']
-        false_neg_data = {'CLO': 0, 'CL': 15, 'UBERON': 11, 'BTO': 63}
-    elif type == 'A':
-        df = data_process('contribution_file_A.json')
+    elif ontology_type == 'A':
+        df = data_process('./results/contribution_file_A.json')
         suffixes = ['UBERON', 'BTO']
-        false_neg_data = {'CLO': 0, 'CL': 0, 'UBERON': 1, 'BTO': 18}
-    elif type == 'dash':
+    elif ontology_type == 'dash':
         df = df_dash
         suffixes = ['CLO', 'CL', 'UBERON', 'BTO']
-        false_neg_data = None
     else:
-        raise ValueError("Tipo no reconocido")
+        raise ValueError("Unrecognized ontology type")
 
+    precisions = {}
     accuracies = {}
-    exhaust = None if type == 'dash' else {}
-    f1 = None if type == 'dash' else {}
+    recall = None if ontology_type == 'dash' else {}
+    f1 = None if ontology_type == 'dash' else {}
 
     for suffix in suffixes:
         true_col = f'{suffix}_C'
         pred_col = f'{suffix}_M'
-        true_pos = 0
-        false_pos = 0
-        false_neg = 0 if false_neg_data is None else false_neg_data[suffix]
+        tp = 0
+        fp = 0
+        tn = 0
+        fn = 0
+
         if true_col in df.columns and pred_col in df.columns:
             for i in range(len(df)):
-                if df.iloc[i][true_col] == df.iloc[i][pred_col]:
-                    true_pos += 1
-                else:
-                    false_pos += 1
-            if type != 'dash':
-                exhaust_values = true_pos / (true_pos + false_neg)
-                f1_values = 2 * true_pos / (2 * true_pos + false_neg + false_pos)
-                exhaust[suffix] = exhaust_values
-                f1[suffix] = f1_values
-            accuracy = true_pos / (true_pos + false_pos)
-            accuracies[suffix] = accuracy
-            print(type,suffix,false_pos,true_pos)
+                true_val = df.iloc[i][true_col]
+                pred_val = df.iloc[i][pred_col]
+                # Skip rows where both true and predicted values are "-"
+                if true_val == "-" and pred_val == "-":
+                    #print(true_val, pred_val)
+                    tn += 1
+                elif true_val != "-" and pred_val == "-":
+                    #print(true_val, pred_val)
+                    fn += 1
+                elif true_val == pred_val:
+                    #print(true_val, pred_val)
+                    tp += 1
+                elif true_val != pred_val:
+                    print(true_val,"|||",pred_val)
+                    fp += 1
+            print(ontology_type, suffix, "TP:", tp, " FP:", fp, " FN:", fn, " TN:", tn)
+            # Calculate metrics if not in 'dash' mode
+            if ontology_type != 'dash':
+                # Calculate recall (exhaustiveness) and F1-score
+                recall_value = tp / (tp + fn) if (tp + fn) > 0 else 0
+                f1_value = (2 * tp) / (2 * tp + fn + fp) if ( 2 * tp + fn + fp) > 0 else 0
+                accuracy = (tp + tn) / (tp + tn + fn + fp)
+                recall[suffix] = recall_value
+                f1[suffix] = f1_value
+                accuracies[suffix] = accuracy
+
+            # Calculate accuracy (precision) based on the evaluated cases (excluding skipped rows)
+            total_evaluated = tp + fp
+            precision = tp / total_evaluated if total_evaluated > 0 else 0
+            precisions[suffix] = precision
+
         else:
-            if type != 'dash':
-                exhaust[suffix] = None
+            if ontology_type == 'dash':
+                recall[suffix] = None
                 f1[suffix] = None
-            accuracies[suffix] = None
-    return accuracies, exhaust, f1
+                precisions[suffix] = None
+                accuracies[suffix] = None
+
+    return precisions, recall, f1 , accuracies
 
 
 def plot_combined_metrics():
@@ -142,11 +165,12 @@ def plot_combined_metrics():
     Plot the calculated metrics for precision, exhaustiveness, and F1-score for all ontology types (CL, CT, A).
     """
     types = ['CL', 'CT', 'A', 'dash']
-    metrics_data = {'precision': {}, 'exhaustiveness': {}, 'f1_score': {}, 'perfect_match': {}}
+    metrics_data = {'precision': {}, 'accuracy': {} ,'exhaustiveness': {}, 'f1_score': {}, 'perfect_match': {}}
 
     for type in types:
-        precision, exhaust, f1 = calculate_metrics(type)
+        precision, exhaust, f1, accuracy = calculate_metrics(type)
         metrics_data['precision'][type] = precision
+        metrics_data['accuracy'][type] = accuracy
         metrics_data['exhaustiveness'][type] = exhaust
         metrics_data['f1_score'][type] = f1
         metrics_data['perfect_match'][type] = match_calculation(type)
@@ -190,15 +214,35 @@ def plot_combined_metrics():
     plt.subplots_adjust(bottom=0.2)  # Increase space between bars to avoid overlap
     plt.show()
 
-    # Plot F1-score
-    df_f1 = pd.DataFrame({key: metrics_data['f1_score'][key] for key in types_exhaust_f1}).T
-    ax = df_f1.plot(kind='bar', figsize=(10, 6), rot=0, width=0.8)
+    # Plot f1-score
+    df_acc = pd.DataFrame({key: metrics_data['f1_score'][key] for key in types_exhaust_f1}).T
+    ax = df_acc.plot(kind='bar', figsize=(10, 6), rot=0, width=0.8)
     ax.set_ylim(0, 1)
     ax.set_title('F1-score by Type')
     ax.set_xlabel('Types')
     ax.set_ylabel('F1-score')
     plt.legend(title='Ontologies')
-    plt.xticks(ticks=range(len(df_f1.index)), labels=df_f1.index, ha='center', rotation=0, fontsize=10)
+    plt.xticks(ticks=range(len(df_acc.index)), labels=df_acc.index, ha='center', rotation=0, fontsize=10)
+
+    # Add value labels to the bars
+    for p in ax.patches:
+        ax.annotate(f'{p.get_height():.3f}', (p.get_x() + p.get_width() / 2., p.get_height()), ha='center', va='center',
+                    xytext=(0, 10), textcoords='offset points')
+
+    plt.subplots_adjust(bottom=0.2)  # Increase space between bars to avoid overlap
+    plt.show()
+
+    # Plot accuracy
+    types_exhaust_f1 = ['CL', 'CT', 'A']  # Remove 'dash' from exhaustiveness and F1-score plots
+    df_exhaust = pd.DataFrame({key: metrics_data['accuracy'][key] for key in types_exhaust_f1}).T
+    ax = df_exhaust.plot(kind='bar', figsize=(10, 6), rot=0, width=0.8)
+    ax.set_ylim(0, 1)
+    ax.set_title('Accuracy by Type')
+    ax.set_xlabel('Types')
+    ax.set_ylabel('Accuracy')
+    plt.legend(title='Ontologies',
+               bbox_to_anchor=(1, 1))  # Move legend outside the plot to avoid overlap
+    plt.xticks(ticks=range(len(df_exhaust.index)), labels=df_exhaust.index, ha='center', rotation=0, fontsize=10)
 
     # Add value labels to the bars
     for p in ax.patches:

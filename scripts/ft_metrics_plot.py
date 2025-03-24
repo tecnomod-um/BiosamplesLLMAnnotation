@@ -74,25 +74,30 @@ def main():
     """
     # Load CSV files
     file_path1 = 'result_35.csv'  # First file path
-    file_path2 = 'result_4o.csv'  # Second file path for comparison
+    file_path2 = 'result_4o_mini.csv'  # Second file path for comparison
+    file_path3 = 'result_4o.csv'
     data1 = pd.read_csv(file_path1)
     data2 = pd.read_csv(file_path2)
+    data3 = pd.read_csv(file_path3)
 
     # Create a 3x2 grid of plots (one column for each file)
-    fig, axs = plt.subplots(3, 2, figsize=(14, 12))
+    fig, axs = plt.subplots(3, 3, figsize=(14, 12))
     fig.subplots_adjust(hspace=0.4, wspace=0.2)
 
     # First row: Training Accuracy
     plot_training_accuracy(axs[0, 0], data1, 'Training Accuracy (GPT-3.5-turbo)')
-    plot_training_accuracy(axs[0, 1], data2, 'Training Accuracy (GPT-4o-mini)')
+    plot_training_accuracy(axs[0, 1], data3, 'Training Accuracy (GPT-4o)')
+    plot_training_accuracy(axs[0, 2], data2, 'Training Accuracy (GPT-4o-mini)')
 
     # Second row: Validation Loss
     plot_validation_loss(axs[1, 0], data1, 'Validation Loss (GPT-3.5-turbo)')
-    plot_validation_loss(axs[1, 1], data2, 'Validation Loss (GPT-4o-mini)')
+    plot_validation_loss(axs[1, 1], data3, 'Validation Loss (GPT-4o)')
+    plot_validation_loss(axs[1, 2], data2, 'Validation Loss (GPT-4o-mini)')
 
     # Third row: Training vs Validation Loss
     plot_training_vs_validation_loss(axs[2, 0], data1, 'Training vs Validation Loss (GPT-3.5-turbo)')
-    plot_training_vs_validation_loss(axs[2, 1], data2, 'Training vs Validation Loss (GPT-4o-mini)')
+    plot_training_vs_validation_loss(axs[2, 1], data3, 'Training vs Validation Loss (GPT-4o)')
+    plot_training_vs_validation_loss(axs[2, 2], data2, 'Training vs Validation Loss (GPT-4o-mini)')
 
     # Display all plots
     plt.show()

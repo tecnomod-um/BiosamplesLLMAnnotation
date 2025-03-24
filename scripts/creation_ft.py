@@ -5,9 +5,10 @@ from dotenv import dotenv_values #environment control
 import os #interact with the operating system
 import json #use json data
 
-mappings = pd.read_csv("biosamples.tsv", sep="\t",header=None) #data loading
+mappings = pd.read_csv("biosamples.tsv", sep="\t", header=None) #data loading
 mappings_ft, mappings_test = train_test_split(mappings, test_size=0.30, random_state=17) #first data division
-mappings_train, mappings_validation = train_test_split(mappings_ft, test_size=0.25, random_state=17) #second data division
+mappings_train, mappings_validation = train_test_split(mappings_ft, test_size=0.25, random_state=17) #second data
+mappings_test.to_csv('mappings_test.csv',index=False)
 
 def get_formatted_data(data):
     """
@@ -70,7 +71,7 @@ def load_environment():
     """
         Get the environment variables, in this case, the OPENAI API key.
     """
-    config = dotenv_values(dotenv_path=".env")
+    config = dotenv_values(dotenv_path="../.env")
     return config['OPENAI_API_KEY']
 
 def prepare_data_ft():
@@ -81,11 +82,11 @@ def prepare_data_ft():
     client = OpenAI(api_key=api_key)
 
     training_file_id = client.files.create(
-    file=open("formatted_train.jsonl", "rb"),
+    file=open("../formatted_train.jsonl", "rb"),
     purpose="fine-tune")
 
     validation_file_id = client.files.create(
-    file=open("formatted_validation.jsonl", "rb"),
+    file=open("../formatted_validation.jsonl", "rb"),
     purpose="fine-tune")
 
     print(f"Training File ID: {training_file_id}")
@@ -100,8 +101,8 @@ def create_job():
   response = client.fine_tuning.jobs.create(
     training_file=training_file_id.id,
     validation_file =validation_file_id.id,
-    model="gpt-4o-mini-2024-07-18", #gpt-3.5-turbo
-    suffix='4o_ft',
+    model="gpt-4o-2024-08-06", #"gpt-4o-mini-2024-07-18"
+    suffix='4o_ft_annotation',
     hyperparameters={
     "n_epochs": 6,
     "batch_size": 3,
@@ -118,8 +119,8 @@ def create_job():
 
 def main(mappings_train,mappings_validation,output_folder):
     jsonl_converter(mappings_train, mappings_validation, output_folder)
-    create_job()
+    #create_job()
 
 if __name__ == "__main__":
-    output_folder = input('Path to the folder where the training and validation data will be stored.')
+    output_folder = input('Path to the folder where the training and validation data will be stored:')
     main(mappings_train,mappings_validation,output_folder)

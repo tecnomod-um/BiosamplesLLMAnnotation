@@ -1,14 +1,22 @@
 import requests #send HTTP requests
 import json #use json data
+from dotenv import dotenv_values
+import pandas as pd
 
-from df_comparation import df_comparation_ft_4o
+def load_data(data_path):
+    """
+    Load the CSV file into a DataFrame.
+    :param data_path: Path to the CSV file.
+    :return: A pandas DataFrame containing the data.
+    """
+    return pd.read_csv(data_path, sep=",", header=0)
 
 def load_environment():
     """
     Load environment variables.
     :return: The OPENAI API key.
     """
-    config = dotenv_values(dotenv_path="../.env")
+    config = dotenv_values(dotenv_path=".env")
     return config.get('BIOPORTAL_API_KEY')
 
 def group_and_return_dfs(df):
@@ -115,9 +123,16 @@ def get_class_names(df,type):
     print(dicc_df)
     dicc_clases = get_classes(dicc_df)
     file_name = f'classnames_{type}.json'
-    with open(file_name, 'w') as archivo_json:
-        json.dump(dicc_clases, archivo_json, indent=4) 
+    with open(file_name, 'w') as json_file:
+        json.dump(dicc_clases, json_file, indent=4)
 
+df_comparison_ft_4o_mini = load_data("../results/df_ft_4o_mini_annotation.csv")
+dfs = group_and_return_dfs(df_comparison_ft_4o_mini)
+
+df_CL = dfs['CL']  # DataFrame where Type is 'CL'
+df_CT = dfs['CT']  # DataFrame where Type is 'CT'
+df_A = dfs['A']    # DataFrame where Type is 'A'
+df_dash = dfs['-']    # DataFrame where Type is '-'
 
 def main():
      get_class_names(df_A,'A')
@@ -127,9 +142,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-dfs = group_and_return_dfs(df_comparation_ft_4o)
-
-df_CL = dfs['CL']  # DataFrame where Type is 'CL'
-df_CT = dfs['CT']  # DataFrame where Type is 'CT'
-df_A = dfs['A']    # DataFrame where Type is 'A'
-df_dash = dfs['-']    # DataFrame where Type is '-'

@@ -9,13 +9,15 @@ def load_environment(var):
     Parameters:
         var (str): Variable to be exported.
     """
-    config = dotenv_values(dotenv_path=".env")
+    config = dotenv_values(dotenv_path="../.env")
     if var == 'key':
         return config['OPENAI_API_KEY']
-    if var == 'ft_model_4o_id':
-        return config['FT_MODEL_4o_ID']
+    if var == 'ft_model_4o_mini_id':
+        return config['FT_MODEL_4o_mini_ID']
     if var == 'ft_model_35_id':
         return config['FT_MODEL_35_ID']
+    if var == 'ft_model_4o_id':
+        return config['FT_MODEL_4o_ID']
 
 def get_metrics(client,ft_model_id,name):
     """
@@ -34,8 +36,10 @@ def get_metrics(client,ft_model_id,name):
 def main():
     api_key = load_environment('key')
     client = OpenAI(api_key=api_key)
+    ft_4o_mini_model_id = load_environment('ft_model_4o_mini_id')
     ft_4o_model_id = load_environment('ft_model_4o_id')
     ft_35_model_id = load_environment('ft_model_35_id')
+    get_metrics(client, ft_4o_mini_model_id, "result_4o_mini.csv")
     get_metrics(client,ft_4o_model_id, "result_4o.csv")
     get_metrics(client, ft_35_model_id, "result_35.csv")
 
