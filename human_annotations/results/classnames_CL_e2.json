@@ -1,0 +1,202 @@
+{
+    "TE7_1": [
+        "TE7 cell",
+        "TE7 cell",
+        "squamous epithelial cell",
+        "esophagus non-keratinized squamous epithelial cell",
+        "esophagus",
+        "esophagus squamous epithelium",
+        "-",
+        "esophageal adenocarcinoma cell"
+    ],
+    "VCaP_prostate_carcinoma_SH3_DHT": [
+        "VCaP cell",
+        "VCaP cell",
+        "epithelial cell of prostate",
+        "endocrine-paracrine cell of prostate gland",
+        "prostate gland",
+        "prostate gland stroma",
+        "VCaP cell",
+        "prostate gland stromal cell"
+    ],
+    "hMSC-TERT": [
+        "-",
+        "mesenchymal stem cell line cell",
+        "mesenchymal stem cell",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "-",
+        "-",
+        "mesenchymal stem cell"
+    ],
+    "HeLaS3": [
+        "HeLa S3 cell",
+        "HELA-S3 cell",
+        "epithelial cell of cervix",
+        "uterine cervix secretory cell",
+        "uterine cervix",
+        "uterine cervix",
+        "HeLa-S3 cell",
+        "HeLa-S3 cell"
+    ],
+    "A549 DMSO": [
+        "A549 cell",
+        "A549 cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung epithelium",
+        "A-549 cell",
+        "A-549 cell"
+    ],
+    "HCT116 TP53-/-_Nutlin3A": [
+        "HCT 116 cell",
+        "HCT 116 cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colonic epithelium",
+        "HCT-116 cell",
+        "HCT-116 cell"
+    ],
+    "HUVECs_TNF0min": [
+        "HUV-EC-C cell",
+        "immortal human vasculature-derived endothelial cell line cell'",
+        "endothelial cell of umbilical vein",
+        "endothelial cell of umbilical vein",
+        "umbilical cord",
+        "umbilical blood vessel",
+        "HUVEC cell",
+        "HUVEC cell"
+    ],
+    "gm12891": [
+        "GM12891 cell",
+        "GM12891 cell",
+        "B cell",
+        "peripheral blood lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "B-lymphocyte cell line"
+    ],
+    "PANC1_2": [
+        "PANC-1 cell",
+        "PANC-1 cell",
+        "type B pancreatic cell",
+        "pancreatic ductal cell",
+        "pancreas",
+        "epithelium of pancreatic duct",
+        "PANC-1 cell",
+        "PANC-1 cell"
+    ],
+    "GM18486": [
+        "GM18486 cell",
+        "GM18486 cell",
+        "B cell",
+        "peripheral blood lymphocyte",
+        "blood",
+        "blood",
+        "-",
+        "B-lymphocyte cell line"
+    ],
+    "IMR90_#2": [
+        "IMR-90 cell",
+        "IMR-90 cell",
+        "fibroblast of lung",
+        "fibroblast of lung",
+        "lung",
+        "lung",
+        "IMR-90 cell",
+        "IMR-90 cell"
+    ],
+    "T (PB)": [
+        "-",
+        "immortal T cell line cell",
+        "T cell",
+        "peripheral blood lymphocyte",
+        "blood",
+        "blood",
+        "T-lymphocyte",
+        "peripheral blood lymphocyte"
+    ],
+    "V389": [
+        "-",
+        "immortal human colon-derived cell line cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colonic epithelium",
+        "-",
+        "VACO cell"
+    ],
+    "CRC_17A": [
+        "-",
+        "immortal colon-derived cell line cell",
+        "colon epithelial cell",
+        "colon epithelial cell",
+        "colon",
+        "colonic epithelium",
+        "-",
+        "colorectal cancer cell line"
+    ],
+    "LY1": [
+        "-",
+        "immortal cell line cell",
+        "B cell",
+        "nasopharyngeal epithelial cell",
+        "blood",
+        "epithelium of nasopharynx",
+        "-",
+        "nasopharyngeal carcinoma cell line"
+    ],
+    "LREX": [
+        "-",
+        "immortal human prostate gland-derived cell line cell",
+        "epithelial cell of prostate",
+        "endocrine-paracrine cell of prostate gland",
+        "prostate gland",
+        "prostate gland",
+        "-",
+        "prostate gland cancer cell"
+    ],
+    "TTC549_Doxycycline": [
+        "-",
+        "immortal human liver-derived cell line cell",
+        "-",
+        "hepatocyte",
+        "liver",
+        "liver",
+        "-",
+        "liver cancer cell"
+    ],
+    "H1 hESC-derived neural progenitor cells_Smad_72hr": [
+        "-",
+        "H1-neuron",
+        "neural progenitor cell",
+        "embryonic stem cell",
+        "embryo",
+        "blastocyst",
+        "-",
+        "hESC cell"
+    ],
+    "GLC16": [
+        "-",
+        "immortal human lung-derived cell line cell",
+        "epithelial cell of lung",
+        "epithelial cell of lung",
+        "lung",
+        "lung epithelium",
+        "-",
+        "lung epithelium cell line"
+    ],
+    "FLP76": [
+        "-",
+        "immortal human kidney-derived epithelial cell line cell",
+        "kidney cell",
+        "kidney epithelial cell",
+        "kidney",
+        "kidney",
+        "-",
+        "renal epithelial cell"
+    ]
+}

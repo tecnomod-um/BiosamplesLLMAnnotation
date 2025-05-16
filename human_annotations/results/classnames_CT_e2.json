@@ -1,0 +1,202 @@
+{
+    "Stromal_heart_2": [
+        "-",
+        "immortal stromal cell line cell",
+        "stromal cell",
+        "stromal cell",
+        "heart",
+        "stroma",
+        "-",
+        "stromal cell"
+    ],
+    "Macrophages_GM-CSF_72h": [
+        "-",
+        "immortal tissue-resident macrophage cell line cell",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "Ik6pre-BALL+TET-emptyvector": [
+        "-",
+        "BALL-1 cell",
+        "hematopoietic cell",
+        "B cell",
+        "blood",
+        "-",
+        "-",
+        "BALL-1 cell"
+    ],
+    "Bone_Marrow_Derived_Mesenchymal_Stem_Cell_Cultured_Cells": [
+        "-",
+        "immortal human bone marrow-derived cell line cell",
+        "mesenchymal stem cell of the bone marrow",
+        "mesenchymal stem cell of the bone marrow",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "bone marrow stem cell"
+    ],
+    "ILC1": [
+        "-",
+        "immortal human lymphoid follicle-derived cell line cell",
+        "group 1 innate lymphoid cell",
+        "group 1 innate lymphoid cell",
+        "immune system",
+        "immune system",
+        "-",
+        "lymphoid cell line"
+    ],
+    "DIPGIV": [
+        "-",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "pons",
+        "-",
+        "DIPG-4 cell"
+    ],
+    "EM CD4+ ab T (PB)": [
+        "-",
+        "immortal alpha-beta T cell line cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta T cell",
+        "blood",
+        "blood",
+        "-",
+        "T-lymphocyte cell line"
+    ],
+    "B_B": [
+        "-",
+        "immortal B cell line cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "immune organ",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "CD8 Naive 8pool": [
+        "-",
+        "immortal immature T cell line cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "thymus",
+        "cortex of thymus",
+        "-",
+        "naive T-lymphocyte"
+    ],
+    "Preadipocyte - subcutaneous donor2": [
+        "-",
+        "primary cultured fat cell",
+        "preadipocyte",
+        "subcutaneous preadipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "preadipocyte",
+        "subcutaneous adipose tissue"
+    ],
+    "CD14+ monocytes - treated with IFN + N-hexane donor2": [
+        "-",
+        "immortal monocyte cell line cell",
+        "CD14-positive monocyte",
+        "macrophage",
+        "blood",
+        "blood vasculature",
+        "monocyte",
+        "mononuclear phagocyte"
+    ],
+    "tamoxifen_EC5": [
+        "-",
+        "immortal endothelial cell line cell",
+        "epithelial cell of uterus",
+        "endothelial cell",
+        "endometrium",
+        "endothelium",
+        "-",
+        "endothelial cell"
+    ],
+    "Matrix_Fibrob_2_E": [
+        "-",
+        "immortal fibroblast cell line cell",
+        "fibroblast",
+        "fibroblast",
+        "connective tissue",
+        "connective tissue",
+        "fibroblast",
+        "fibroblast"
+    ],
+    "B_C": [
+        "-",
+        "immortal B cell line cell",
+        "B cell",
+        "B cell",
+        "blood",
+        "immune organ",
+        "B-lymphocyte",
+        "B-lymphocyte"
+    ],
+    "STAD": [
+        "-",
+        "immortal stomach-derived cell line cell",
+        "glandular epithelial cell of stomach",
+        "smooth muscle cell of stomach",
+        "stomach",
+        "stomach",
+        "gastric adenocarcinoma cell",
+        "gastric adenocarcinoma cell"
+    ],
+    "pDC": [
+        "-",
+        "immortal dendritic cell line cell",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell",
+        "blood",
+        "immune organ",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell"
+    ],
+    "astrocyte_of_the_spinal_cord": [
+        "-",
+        "immortal astrocyte cell line cell",
+        "astrocyte of the spinal cord",
+        "astrocyte of the spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "-",
+        "astrocyte"
+    ],
+    "Chondrocyte - re diff donor3": [
+        "-",
+        "mesenchymal stem cell line cell",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "cartilage tissue",
+        "chondrocyte",
+        "chondrocyte"
+    ],
+    "breast_tumour_metastasis": [
+        "-",
+        "immortal breast-derived cell line cell",
+        "-",
+        "mammary gland epithelial cell",
+        "breast",
+        "breast",
+        "breast cancer cell",
+        "breast cancer cell line"
+    ],
+    "Megakaryo_adrenal": [
+        "-",
+        "immortal megakaryocyte-erythroid progenitor cell line cell",
+        "megakaryocyte",
+        "megakaryocyte",
+        "adrenal gland",
+        "adrenal tissue",
+        "-",
+        "megakaryocyte"
+    ]
+}
