@@ -1,0 +1,202 @@
+{
+    "Stromal_heart_2": [
+        "-",
+        "-",
+        "stromal cell",
+        "stromal cell",
+        "heart",
+        "heart",
+        "-",
+        "-"
+    ],
+    "Macrophages_GM-CSF_72h": [
+        "-",
+        "-",
+        "macrophage",
+        "macrophage",
+        "blood",
+        "-",
+        "macrophage",
+        "macrophage"
+    ],
+    "Ik6pre-BALL+TET-emptyvector": [
+        "-",
+        "BALL-1 cell",
+        "hematopoietic cell",
+        "-",
+        "blood",
+        "-",
+        "-",
+        "BALL-1 cell"
+    ],
+    "Bone_Marrow_Derived_Mesenchymal_Stem_Cell_Cultured_Cells": [
+        "-",
+        "primary cultured bone marrow cell",
+        "mesenchymal stem cell of the bone marrow",
+        "mesenchymal stem cell",
+        "bone marrow",
+        "bone marrow",
+        "-",
+        "mesenchymal stem cell"
+    ],
+    "ILC1": [
+        "-",
+        "-",
+        "group 1 innate lymphoid cell",
+        "ILC1",
+        "immune system",
+        "lymphoid tissue",
+        "-",
+        "-"
+    ],
+    "DIPGIV": [
+        "-",
+        "-",
+        "glial cell",
+        "-",
+        "brain",
+        "-",
+        "-",
+        "-"
+    ],
+    "EM CD4+ ab T (PB)": [
+        "-",
+        "-",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive helper T cell",
+        "blood",
+        "-",
+        "-",
+        "-"
+    ],
+    "B_B": [
+        "-",
+        "-",
+        "B cell",
+        "B-1b B cell",
+        "blood",
+        "-",
+        "B-lymphocyte",
+        "-"
+    ],
+    "CD8 Naive 8pool": [
+        "-",
+        "-",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "naive thymus-derived CD8-positive, alpha-beta T cell",
+        "thymus",
+        "thymus",
+        "-",
+        "-"
+    ],
+    "Preadipocyte - subcutaneous donor2": [
+        "-",
+        "-",
+        "preadipocyte",
+        "subcutaneous preadipocyte",
+        "subcutaneous adipose tissue",
+        "subcutaneous adipose tissue",
+        "preadipocyte",
+        "-"
+    ],
+    "CD14+ monocytes - treated with IFN + N-hexane donor2": [
+        "-",
+        "-",
+        "CD14-positive monocyte",
+        "CD14-positive monocyte",
+        "blood",
+        "-",
+        "monocyte",
+        "-"
+    ],
+    "tamoxifen_EC5": [
+        "-",
+        "-",
+        "epithelial cell of uterus",
+        "type EC enteroendocrine cell",
+        "endometrium",
+        "-",
+        "-",
+        "-"
+    ],
+    "Matrix_Fibrob_2_E": [
+        "-",
+        "-",
+        "fibroblast",
+        "-",
+        "connective tissue",
+        "-",
+        "fibroblast",
+        "-"
+    ],
+    "B_C": [
+        "-",
+        "-",
+        "B cell",
+        "-",
+        "blood",
+        "-",
+        "B-lymphocyte",
+        "-"
+    ],
+    "STAD": [
+        "-",
+        "-",
+        "glandular epithelial cell of stomach",
+        "-",
+        "stomach",
+        "-",
+        "gastric adenocarcinoma cell",
+        "-"
+    ],
+    "pDC": [
+        "-",
+        "-",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell",
+        "blood",
+        "-",
+        "plasmacytoid dendritic cell",
+        "plasmacytoid dendritic cell"
+    ],
+    "astrocyte_of_the_spinal_cord": [
+        "-",
+        "-",
+        "astrocyte of the spinal cord",
+        "astrocyte of the spinal cord",
+        "spinal cord",
+        "spinal cord",
+        "-",
+        "-"
+    ],
+    "Chondrocyte - re diff donor3": [
+        "-",
+        "-",
+        "chondrocyte",
+        "chondrocyte",
+        "cartilage tissue",
+        "-",
+        "chondrocyte",
+        "chondrocyte"
+    ],
+    "breast_tumour_metastasis": [
+        "-",
+        "-",
+        "-",
+        "-",
+        "breast",
+        "breast",
+        "breast cancer cell",
+        "-"
+    ],
+    "Megakaryo_adrenal": [
+        "-",
+        "-",
+        "megakaryocyte",
+        "megakaryocyte",
+        "adrenal gland",
+        "adrenal gland",
+        "-",
+        "megakaryocyte"
+    ]
+}
