@@ -1,4 +1,6 @@
 # BiosamplesLLMAnnotation
+![Graphical Abstract](Graphical_Abstract_Old.png)
+
 ## Application of Large Language Models to automate the processes of semantic integration of biological data
 Code used in the method and results obtained for the implementation of LLMs in semantics integration of biological data, specifically, OpenAI's GPT-3.5-turbo and GPT-4-turbo and GPT-4o models are used. In addition, two fine-tuned models were developed by performing a fine-tuning process on the GPT-3.5-turbo and GPT-4o-mini models. 
 
